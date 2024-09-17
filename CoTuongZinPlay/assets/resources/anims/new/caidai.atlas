@@ -1,0 +1,76 @@
+
+caidai.png
+size: 78,134
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+cai_12
+  rotate: false
+  xy: 60, 59
+  size: 16, 25
+  orig: 16, 25
+  offset: 0, 0
+  index: -1
+cai_3
+  rotate: false
+  xy: 34, 40
+  size: 19, 17
+  orig: 19, 17
+  offset: 0, 0
+  index: -1
+cai_5
+  rotate: true
+  xy: 36, 19
+  size: 19, 17
+  orig: 19, 17
+  offset: 0, 0
+  index: -1
+cai_6
+  rotate: true
+  xy: 55, 44
+  size: 13, 21
+  orig: 13, 21
+  offset: 0, 0
+  index: -1
+cai_7
+  rotate: false
+  xy: 55, 23
+  size: 17, 19
+  orig: 17, 19
+  offset: 0, 0
+  index: -1
+cai_8
+  rotate: false
+  xy: 34, 59
+  size: 24, 25
+  orig: 24, 25
+  offset: 0, 0
+  index: -1
+caidai_1
+  rotate: true
+  xy: 2, 2
+  size: 33, 32
+  orig: 33, 32
+  offset: 0, 0
+  index: -1
+caidai_2
+  rotate: false
+  xy: 2, 37
+  size: 30, 36
+  orig: 30, 36
+  offset: 0, 0
+  index: -1
+caidai_3
+  rotate: false
+  xy: 2, 75
+  size: 29, 57
+  orig: 29, 57
+  offset: 0, 0
+  index: -1
+caidai_4
+  rotate: true
+  xy: 33, 86
+  size: 46, 38
+  orig: 46, 38
+  offset: 0, 0
+  index: -1

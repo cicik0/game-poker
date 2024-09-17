@@ -1,0 +1,62 @@
+
+Het gio.png
+size: 564,419
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+FX_ink/FX_ink_00001
+  rotate: false
+  xy: 2, 2
+  size: 142, 106
+  orig: 358, 155
+  offset: 11, 14
+  index: -1
+FX_ink/FX_ink_00002
+  rotate: false
+  xy: 246, 15
+  size: 234, 114
+  orig: 358, 155
+  offset: 11, 13
+  index: -1
+FX_ink/FX_ink_00003
+  rotate: false
+  xy: 2, 178
+  size: 315, 118
+  orig: 358, 155
+  offset: 11, 13
+  index: -1
+FX_ink/FX_ink_00004
+  rotate: false
+  xy: 2, 298
+  size: 316, 119
+  orig: 358, 155
+  offset: 11, 13
+  index: -1
+FX_text/text_00006
+  rotate: false
+  xy: 2, 110
+  size: 242, 66
+  orig: 358, 155
+  offset: 48, 35
+  index: -1
+FX_text/text_00007
+  rotate: false
+  xy: 319, 131
+  size: 242, 92
+  orig: 358, 155
+  offset: 48, 35
+  index: -1
+FX_text/text_00008
+  rotate: false
+  xy: 320, 322
+  size: 242, 95
+  orig: 358, 155
+  offset: 48, 35
+  index: -1
+FX_text/text_00009
+  rotate: false
+  xy: 320, 225
+  size: 242, 95
+  orig: 358, 155
+  offset: 48, 35
+  index: -1

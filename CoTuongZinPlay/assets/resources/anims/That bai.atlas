@@ -1,0 +1,27 @@
+
+That bai.png
+size: 424,710
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+khung
+  rotate: true
+  xy: 2, 32
+  size: 580, 193
+  orig: 580, 193
+  offset: 0, 0
+  index: -1
+shadow
+  rotate: true
+  xy: 197, 2
+  size: 610, 225
+  orig: 614, 229
+  offset: 2, 2
+  index: -1
+text
+  rotate: false
+  xy: 2, 614
+  size: 247, 94
+  orig: 247, 94
+  offset: 0, 0
+  index: -1

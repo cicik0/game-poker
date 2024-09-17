@@ -1,0 +1,160 @@
+
+solitaire_prop_unlock_lizi1.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+guang2
+  rotate: false
+  xy: 699, 799
+  size: 223, 222
+  orig: 231, 231
+  offset: 4, 4
+  index: -1
+kuosan/di_00006
+  rotate: true
+  xy: 590, 45
+  size: 121, 112
+  orig: 248, 232
+  offset: 56, 65
+  index: -1
+kuosan/di_00007
+  rotate: true
+  xy: 462, 33
+  size: 133, 126
+  orig: 248, 232
+  offset: 50, 58
+  index: -1
+kuosan/di_00008
+  rotate: true
+  xy: 155, 18
+  size: 143, 139
+  orig: 248, 232
+  offset: 44, 52
+  index: -1
+kuosan/di_00009
+  rotate: true
+  xy: 2, 7
+  size: 154, 151
+  orig: 248, 232
+  offset: 38, 46
+  index: -1
+kuosan/di_00010
+  rotate: false
+  xy: 296, 2
+  size: 164, 162
+  orig: 248, 232
+  offset: 33, 41
+  index: -1
+kuosan/di_00011
+  rotate: true
+  xy: 704, 6
+  size: 173, 172
+  orig: 248, 232
+  offset: 28, 36
+  index: -1
+kuosan/di_00012
+  rotate: false
+  xy: 637, 181
+  size: 181, 182
+  orig: 248, 232
+  offset: 24, 31
+  index: -1
+kuosan/di_00013
+  rotate: false
+  xy: 210, 166
+  size: 188, 191
+  orig: 248, 232
+  offset: 20, 26
+  index: -1
+kuosan/di_00014
+  rotate: true
+  xy: 435, 168
+  size: 195, 200
+  orig: 248, 232
+  offset: 17, 22
+  index: -1
+kuosan/di_00015
+  rotate: true
+  xy: 2, 163
+  size: 202, 206
+  orig: 248, 232
+  offset: 14, 19
+  index: -1
+kuosan/di_00016
+  rotate: true
+  xy: 2, 367
+  size: 209, 212
+  orig: 248, 232
+  offset: 11, 16
+  index: -1
+kuosan/di_00017
+  rotate: true
+  xy: 222, 579
+  size: 215, 217
+  orig: 248, 232
+  offset: 9, 12
+  index: -1
+kuosan/di_00018
+  rotate: true
+  xy: 222, 359
+  size: 218, 211
+  orig: 248, 232
+  offset: 9, 9
+  index: -1
+kuosan/di_00019
+  rotate: false
+  xy: 441, 365
+  size: 217, 213
+  orig: 248, 232
+  offset: 13, 7
+  index: -1
+kuosan/di_00020
+  rotate: false
+  xy: 468, 580
+  size: 222, 216
+  orig: 248, 232
+  offset: 11, 5
+  index: -1
+kuosan/di_00021
+  rotate: false
+  xy: 699, 577
+  size: 225, 220
+  orig: 248, 232
+  offset: 10, 3
+  index: -1
+kuosan/di_00022
+  rotate: false
+  xy: 468, 798
+  size: 229, 223
+  orig: 248, 232
+  offset: 9, 2
+  index: -1
+kuosan/di_00023
+  rotate: false
+  xy: 2, 796
+  size: 231, 225
+  orig: 248, 232
+  offset: 8, 0
+  index: -1
+kuosan/di_00024
+  rotate: false
+  xy: 235, 796
+  size: 231, 225
+  orig: 248, 232
+  offset: 9, 0
+  index: -1
+kuosan/di_00025
+  rotate: false
+  xy: 2, 578
+  size: 218, 216
+  orig: 248, 232
+  offset: 19, 4
+  index: -1
+kuosan/di_00026
+  rotate: false
+  xy: 924, 1015
+  size: 6, 6
+  orig: 248, 232
+  offset: 25, 83
+  index: -1

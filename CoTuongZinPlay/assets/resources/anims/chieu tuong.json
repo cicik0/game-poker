@@ -1,0 +1,390 @@
+{
+    "skeleton": {
+        "hash": "WqP7XhU7UKhlEnvNiYSilpTSmjk=",
+        "spine": "3.8.75",
+        "x": -328.02,
+        "y": 5.21,
+        "width": 622.15,
+        "height": 308.98,
+        "images": "./images/",
+        "audio": ""
+    },
+    "bones": [
+        { "name": "root", "scaleX": 0.7, "scaleY": 0.7 },
+        { "name": "P2", "parent": "root", "x": 125.77, "y": 237.89 },
+        { "name": "P1", "parent": "root", "x": -164.67, "y": 193.65 },
+        { "name": "FX", "parent": "root", "x": -57, "y": 220.12 },
+        {
+            "name": "FX_text",
+            "parent": "root",
+            "x": -24.21,
+            "y": 228.14,
+            "scaleX": 1.1994,
+            "scaleY": 1.1994
+        },
+        {
+            "name": "FX_text2",
+            "parent": "root",
+            "x": -24.21,
+            "y": 228.14,
+            "scaleX": 1.1994,
+            "scaleY": 1.1994
+        },
+        { "name": "FX blood", "parent": "root", "x": -133.61, "y": 171.37 }
+    ],
+    "slots": [
+        { "name": "p1", "bone": "P1", "attachment": "p1" },
+        { "name": "FX blood", "bone": "FX blood" },
+        { "name": "slide 2", "bone": "FX" },
+        { "name": "slide 3", "bone": "FX" },
+        { "name": "slide", "bone": "FX" },
+        { "name": "p2", "bone": "P2", "attachment": "p2" },
+        {
+            "name": "FX/Text_00001",
+            "bone": "FX_text",
+            "attachment": "FX/Text_00004"
+        },
+        {
+            "name": "FX/Text_1",
+            "bone": "FX_text2",
+            "attachment": "FX/Text_00004"
+        }
+    ],
+    "skins": [
+        {
+            "name": "default",
+            "attachments": {
+                "p1": {
+                    "p1": {
+                        "x": -76.95,
+                        "y": 8.69,
+                        "width": 405,
+                        "height": 259
+                    },
+                    "p1 copy": {
+                        "x": -76.95,
+                        "y": 8.69,
+                        "width": 404,
+                        "height": 279
+                    }
+                },
+                "p2": {
+                    "p2": {
+                        "x": 27.93,
+                        "y": -1.41,
+                        "width": 487,
+                        "height": 310
+                    },
+                    "p2 copy": {
+                        "x": 27.93,
+                        "y": -1.41,
+                        "width": 487,
+                        "height": 330
+                    }
+                },
+                "slide 2": {
+                    "slide 2": {
+                        "x": 10.11,
+                        "y": -31.75,
+                        "rotation": -0.89,
+                        "width": 192,
+                        "height": 502
+                    }
+                },
+                "slide 3": {
+                    "slide 3": {
+                        "x": 73.97,
+                        "y": -261.18,
+                        "rotation": -0.89,
+                        "width": 153,
+                        "height": 156
+                    }
+                },
+                "FX/Text_00001": {
+                    "FX/Text_00001": { "width": 741, "height": 368 },
+                    "FX/Text_00002": { "width": 741, "height": 368 },
+                    "FX/Text_00003": { "width": 741, "height": 368 },
+                    "FX/Text_00004": { "width": 741, "height": 368 }
+                },
+                "FX/Text_1": {
+                    "FX/Text_00004": { "width": 741, "height": 368 }
+                },
+                "FX blood": {
+                    "FX blood": {
+                        "x": 36.72,
+                        "y": 85.98,
+                        "width": 254,
+                        "height": 561
+                    }
+                },
+                "slide": {
+                    "slide 1": {
+                        "x": -15.52,
+                        "y": 241.84,
+                        "rotation": -23.98,
+                        "width": 62,
+                        "height": 198
+                    }
+                }
+            }
+        }
+    ],
+    "animations": {
+        "animation": {
+            "slots": {
+                "p2": {
+                    "color": [
+                        {
+                            "time": 1.8333,
+                            "color": "ffffffff",
+                            "curve": 0.348,
+                            "c3": 0.636
+                        },
+                        { "time": 2.1667, "color": "ffffff00" }
+                    ],
+                    "attachment": [
+                        { "name": null },
+                        { "time": 0.4, "name": "p2" },
+                        { "time": 0.8, "name": "p2 copy" },
+                        { "time": 0.8667, "name": "p2" }
+                    ]
+                },
+                "slide 3": {
+                    "attachment": [
+                        { "time": 0.8333, "name": "slide 3" },
+                        { "time": 0.8667, "name": null }
+                    ]
+                },
+                "slide 2": {
+                    "attachment": [
+                        { "time": 0.8, "name": "slide 2" },
+                        { "time": 0.8333, "name": null }
+                    ]
+                },
+                "FX/Text_00001": {
+                    "attachment": [
+                        { "name": null },
+                        { "time": 0.0667, "name": "FX/Text_00001" },
+                        { "time": 0.1333, "name": "FX/Text_00002" },
+                        { "time": 0.2, "name": "FX/Text_00003" },
+                        { "time": 0.2667, "name": "FX/Text_00004" },
+                        { "time": 0.7667, "name": null }
+                    ]
+                },
+                "FX/Text_1": {
+                    "color": [
+                        { "color": "ffffff00", "curve": "stepped" },
+                        {
+                            "time": 0.3333,
+                            "color": "ffffff00",
+                            "curve": 0.348,
+                            "c3": 0.636
+                        },
+                        {
+                            "time": 0.3667,
+                            "color": "ffffff6c",
+                            "curve": 0.247,
+                            "c2": 0.6,
+                            "c3": 0.636
+                        },
+                        { "time": 0.4667, "color": "ffffff00" }
+                    ],
+                    "attachment": [
+                        { "name": null },
+                        { "time": 0.2667, "name": "FX/Text_00004" },
+                        { "time": 0.7667, "name": null }
+                    ]
+                },
+                "FX blood": {
+                    "color": [
+                        {
+                            "time": 0.8333,
+                            "color": "ffffffb8",
+                            "curve": 0.219,
+                            "c2": 0.64,
+                            "c3": 0.636
+                        },
+                        { "time": 0.9, "color": "ffffff00" }
+                    ],
+                    "attachment": [{ "time": 0.8, "name": "FX blood" }]
+                },
+                "slide": {
+                    "attachment": [
+                        { "time": 0.7667, "name": "slide 1" },
+                        { "time": 0.8, "name": null }
+                    ]
+                },
+                "p1": {
+                    "color": [
+                        {
+                            "time": 1.8333,
+                            "color": "ffffffff",
+                            "curve": 0.348,
+                            "c3": 0.636
+                        },
+                        { "time": 2.1667, "color": "ffffff00" }
+                    ],
+                    "attachment": [
+                        { "name": null },
+                        { "time": 0.4, "name": "p1" },
+                        { "time": 0.8, "name": "p1 copy" },
+                        { "time": 0.8667, "name": "p1" }
+                    ]
+                }
+            },
+            "bones": {
+                "FX_text": {
+                    "scale": [
+                        { "curve": 0.348, "c3": 0.636 },
+                        {
+                            "time": 0.0667,
+                            "x": 1.169,
+                            "y": 1.169,
+                            "curve": "stepped"
+                        },
+                        {
+                            "time": 0.2667,
+                            "x": 1.169,
+                            "y": 1.169,
+                            "curve": 0.348,
+                            "c3": 0.636
+                        },
+                        { "time": 0.3667 }
+                    ]
+                },
+                "FX": {
+                    "rotate": [{ "time": 0.7667, "angle": 1.02 }],
+                    "translate": [
+                        {
+                            "time": 0.7667,
+                            "x": -25.61,
+                            "y": 29.25,
+                            "curve": 0.348,
+                            "c3": 0.636
+                        },
+                        { "time": 0.8, "x": -3.13, "y": 29.65 }
+                    ]
+                },
+                "P2": {
+                    "translate": [
+                        { "y": 2.34, "curve": "stepped" },
+                        { "time": 1, "y": 2.34, "curve": 0.25, "c3": 0.75 },
+                        {
+                            "time": 1.0667,
+                            "x": 0.52,
+                            "y": 9.85,
+                            "curve": 0.25,
+                            "c3": 0.75
+                        },
+                        {
+                            "time": 1.1667,
+                            "x": 2.53,
+                            "y": 1.71,
+                            "curve": 0.25,
+                            "c3": 0.75
+                        },
+                        {
+                            "time": 1.3667,
+                            "x": 9.82,
+                            "y": 6.43,
+                            "curve": 0.25,
+                            "c3": 0.75
+                        },
+                        {
+                            "time": 1.6333,
+                            "x": 20.6,
+                            "y": -1.04,
+                            "curve": 0.25,
+                            "c3": 0.75
+                        },
+                        { "time": 1.8667, "x": 24.69, "y": 2.34 }
+                    ]
+                },
+                "P1": {
+                    "translate": [
+                        { "time": 1, "curve": 0.25, "c3": 0.75 },
+                        {
+                            "time": 1.0667,
+                            "x": -0.31,
+                            "y": -4.07,
+                            "curve": 0.25,
+                            "c3": 0.75
+                        },
+                        {
+                            "time": 1.1667,
+                            "x": -1.31,
+                            "y": 1.67,
+                            "curve": 0.25,
+                            "c3": 0.75
+                        },
+                        {
+                            "time": 1.3,
+                            "x": -3.74,
+                            "y": -4.61,
+                            "curve": 0.25,
+                            "c3": 0.75
+                        },
+                        {
+                            "time": 1.5,
+                            "x": -8.64,
+                            "y": -3.77,
+                            "curve": 0.25,
+                            "c3": 0.75
+                        },
+                        { "time": 1.8667, "x": -17.61 }
+                    ]
+                },
+                "FX_text2": {
+                    "scale": [
+                        { "curve": 0.348, "c3": 0.636 },
+                        {
+                            "time": 0.0667,
+                            "x": 1.169,
+                            "y": 1.169,
+                            "curve": "stepped"
+                        },
+                        {
+                            "time": 0.3667,
+                            "x": 1.169,
+                            "y": 1.169,
+                            "curve": 0.202,
+                            "c2": 0.6,
+                            "c3": 0.58
+                        },
+                        { "time": 0.5 }
+                    ]
+                },
+                "FX blood": {
+                    "rotate": [
+                        { "time": 0.8, "curve": 0.348, "c3": 0.636 },
+                        { "time": 0.9333, "angle": 8.44 }
+                    ],
+                    "translate": [
+                        {
+                            "time": 0.8,
+                            "x": 4.79,
+                            "y": -24.5,
+                            "curve": 0.228,
+                            "c2": 0.51,
+                            "c3": 0.61,
+                            "c4": 0.86
+                        },
+                        { "time": 0.9333, "x": -105.8, "y": -24.5 }
+                    ],
+                    "scale": [
+                        {
+                            "time": 0.8,
+                            "x": 1.315,
+                            "y": 1.315,
+                            "curve": 0.228,
+                            "c2": 0.51,
+                            "c3": 0.61,
+                            "c4": 0.86
+                        },
+                        { "time": 0.9333, "x": 1.706, "y": 1.706 }
+                    ]
+                }
+            }
+        }
+    }
+}

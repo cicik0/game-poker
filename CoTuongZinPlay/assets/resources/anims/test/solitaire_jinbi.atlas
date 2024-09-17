@@ -1,0 +1,251 @@
+
+solitaire_jinbi.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/feisan/feisan_00002
+  rotate: false
+  xy: 277, 35
+  size: 27, 31
+  orig: 101, 100
+  offset: 37, 31
+  index: -1
+images/feisan/feisan_00003
+  rotate: true
+  xy: 235, 25
+  size: 41, 40
+  orig: 101, 100
+  offset: 31, 27
+  index: -1
+images/feisan/feisan_00004
+  rotate: true
+  xy: 66, 9
+  size: 51, 49
+  orig: 101, 100
+  offset: 27, 23
+  index: -1
+images/feisan/feisan_00005
+  rotate: false
+  xy: 2, 5
+  size: 62, 55
+  orig: 101, 100
+  offset: 22, 20
+  index: -1
+images/feisan/feisan_00006
+  rotate: false
+  xy: 117, 4
+  size: 72, 61
+  orig: 101, 100
+  offset: 17, 17
+  index: -1
+images/feisan/feisan_00007
+  rotate: false
+  xy: 830, 187
+  size: 78, 67
+  orig: 101, 100
+  offset: 14, 14
+  index: -1
+images/feisan/feisan_00008
+  rotate: false
+  xy: 657, 181
+  size: 84, 73
+  orig: 101, 100
+  offset: 11, 11
+  index: -1
+images/feisan/feisan_00009
+  rotate: true
+  xy: 453, 85
+  size: 88, 78
+  orig: 101, 100
+  offset: 9, 8
+  index: -1
+images/feisan/feisan_00010
+  rotate: true
+  xy: 281, 74
+  size: 92, 83
+  orig: 101, 100
+  offset: 7, 5
+  index: -1
+images/feisan/feisan_00011
+  rotate: true
+  xy: 193, 68
+  size: 95, 86
+  orig: 101, 100
+  offset: 6, 3
+  index: -1
+images/feisan/feisan_00012
+  rotate: false
+  xy: 96, 165
+  size: 97, 89
+  orig: 101, 100
+  offset: 4, 2
+  index: -1
+images/feisan/feisan_00013
+  rotate: false
+  xy: 95, 67
+  size: 96, 90
+  orig: 101, 100
+  offset: 4, 1
+  index: -1
+images/feisan/feisan_00014
+  rotate: true
+  xy: 2, 62
+  size: 95, 91
+  orig: 101, 100
+  offset: 4, 1
+  index: -1
+images/feisan/feisan_00015
+  rotate: true
+  xy: 2, 159
+  size: 95, 92
+  orig: 101, 100
+  offset: 4, 0
+  index: -1
+images/feisan/feisan_00016
+  rotate: true
+  xy: 288, 171
+  size: 83, 91
+  orig: 101, 100
+  offset: 13, 0
+  index: -1
+images/solitaire_jinbi
+  rotate: false
+  xy: 191, 18
+  size: 42, 47
+  orig: 42, 47
+  offset: 0, 0
+  index: -1
+images/solitaire_jinlilizi_00001
+  rotate: true
+  xy: 897, 27
+  size: 76, 75
+  orig: 101, 100
+  offset: 12, 15
+  index: -1
+images/solitaire_jinlilizi_00002
+  rotate: true
+  xy: 820, 17
+  size: 81, 75
+  orig: 101, 100
+  offset: 9, 15
+  index: -1
+images/solitaire_jinlilizi_00003
+  rotate: true
+  xy: 608, 94
+  size: 85, 78
+  orig: 101, 100
+  offset: 7, 13
+  index: -1
+images/solitaire_jinlilizi_00004
+  rotate: false
+  xy: 743, 182
+  size: 85, 72
+  orig: 101, 100
+  offset: 7, 10
+  index: -1
+images/solitaire_jinlilizi_00005
+  rotate: true
+  xy: 661, 7
+  size: 85, 78
+  orig: 101, 100
+  offset: 7, 7
+  index: -1
+images/solitaire_jinlilizi_00006
+  rotate: false
+  xy: 767, 100
+  size: 78, 80
+  orig: 101, 100
+  offset: 11, 7
+  index: -1
+images/solitaire_jinlilizi_00007
+  rotate: false
+  xy: 741, 11
+  size: 77, 82
+  orig: 101, 100
+  offset: 13, 8
+  index: -1
+images/solitaire_jinlilizi_00008
+  rotate: false
+  xy: 688, 95
+  size: 77, 84
+  orig: 101, 100
+  offset: 12, 7
+  index: -1
+images/solitaire_jinlilizi_00009
+  rotate: true
+  xy: 487, 5
+  size: 78, 87
+  orig: 101, 100
+  offset: 10, 4
+  index: -1
+images/solitaire_jinlilizi_00010
+  rotate: true
+  xy: 396, 2
+  size: 78, 89
+  orig: 101, 100
+  offset: 9, 2
+  index: -1
+images/solitaire_jinlilizi_00011
+  rotate: true
+  xy: 381, 175
+  size: 79, 87
+  orig: 101, 100
+  offset: 10, 3
+  index: -1
+images/solitaire_jinlilizi_00012
+  rotate: true
+  xy: 576, 4
+  size: 80, 83
+  orig: 101, 100
+  offset: 11, 4
+  index: -1
+images/solitaire_jinlilizi_00013
+  rotate: false
+  xy: 366, 82
+  size: 85, 87
+  orig: 101, 100
+  offset: 8, 3
+  index: -1
+images/solitaire_jinlilizi_00014
+  rotate: false
+  xy: 195, 168
+  size: 91, 86
+  orig: 101, 100
+  offset: 4, 6
+  index: -1
+images/solitaire_jinlilizi_00015
+  rotate: true
+  xy: 533, 86
+  size: 92, 73
+  orig: 101, 100
+  offset: 3, 6
+  index: -1
+images/solitaire_jinlilizi_00016
+  rotate: false
+  xy: 563, 181
+  size: 92, 73
+  orig: 101, 100
+  offset: 3, 6
+  index: -1
+images/solitaire_jinlilizi_00017
+  rotate: false
+  xy: 470, 180
+  size: 91, 74
+  orig: 101, 100
+  offset: 4, 7
+  index: -1
+images/solitaire_jinlilizi_00018
+  rotate: false
+  xy: 306, 5
+  size: 88, 67
+  orig: 101, 100
+  offset: 4, 14
+  index: -1
+images/solitaire_jinlilizi_00019
+  rotate: true
+  xy: 847, 105
+  size: 80, 73
+  orig: 101, 100
+  offset: 14, 12
+  index: -1

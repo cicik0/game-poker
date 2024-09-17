@@ -1,0 +1,97 @@
+
+Botton.png
+size: 960,542
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+FX_text/FX_text_00000
+  rotate: false
+  xy: 2, 79
+  size: 216, 133
+  orig: 232, 144
+  offset: 7, 5
+  index: -1
+FX_text/FX_text_00004
+  rotate: false
+  xy: 306, 407
+  size: 216, 133
+  orig: 232, 144
+  offset: 7, 5
+  index: -1
+FX_text/FX_text_00005
+  rotate: false
+  xy: 306, 272
+  size: 216, 133
+  orig: 232, 144
+  offset: 7, 5
+  index: -1
+FX_text/FX_text_00006
+  rotate: false
+  xy: 524, 407
+  size: 216, 133
+  orig: 232, 144
+  offset: 7, 5
+  index: -1
+FX_text/FX_text_00007
+  rotate: false
+  xy: 524, 272
+  size: 216, 133
+  orig: 232, 144
+  offset: 7, 5
+  index: -1
+FX_text/FX_text_00008
+  rotate: false
+  xy: 742, 407
+  size: 216, 133
+  orig: 232, 144
+  offset: 7, 5
+  index: -1
+FX_text/FX_text_00009
+  rotate: false
+  xy: 742, 272
+  size: 216, 133
+  orig: 232, 144
+  offset: 7, 5
+  index: -1
+FX_text/FX_text_00010
+  rotate: false
+  xy: 306, 137
+  size: 216, 133
+  orig: 232, 144
+  offset: 7, 5
+  index: -1
+FX_text/FX_text_00011
+  rotate: false
+  xy: 524, 137
+  size: 216, 133
+  orig: 232, 144
+  offset: 7, 5
+  index: -1
+FX_text/FX_text_00012
+  rotate: false
+  xy: 742, 137
+  size: 216, 133
+  orig: 232, 144
+  offset: 7, 5
+  index: -1
+FX_text/FX_text_00013
+  rotate: false
+  xy: 220, 2
+  size: 216, 133
+  orig: 232, 144
+  offset: 7, 5
+  index: -1
+FX_text/FX_text_00014
+  rotate: false
+  xy: 438, 2
+  size: 216, 133
+  orig: 232, 144
+  offset: 7, 5
+  index: -1
+nap bttn
+  rotate: false
+  xy: 2, 214
+  size: 302, 326
+  orig: 321, 344
+  offset: 9, 10
+  index: -1

@@ -1,0 +1,112 @@
+{
+    "skeleton": {
+        "hash": "2oEL0zEd0msuPc09zbnTpu9/Gy0",
+        "spine": "3.8.88",
+        "x": -124.36,
+        "y": -268.67,
+        "width": 248.36,
+        "height": 383.74,
+        "images": "./images/",
+        "audio": "C:/Users/Admin/Desktop/新建文件夹/道具解锁-动画"
+    },
+    "bones": [
+        { "name": "root" },
+        { "name": "kuosan1", "parent": "root", "y": -152.67 },
+        { "name": "feiggg1", "parent": "root", "x": -8.86, "y": -0.44 }
+    ],
+    "slots": [
+        {
+            "name": "kuosan/di_00001",
+            "bone": "kuosan1",
+            "attachment": "kuosan/di_00010",
+            "blend": "additive"
+        },
+        {
+            "name": "guang2",
+            "bone": "feiggg1",
+            "attachment": "guang2",
+            "blend": "additive"
+        }
+    ],
+    "skins": [
+        {
+            "name": "default",
+            "attachments": {
+                "guang2": { "guang2": { "width": 231, "height": 231 } },
+                "kuosan/di_00001": {
+                    "kuosan/di_00006": { "width": 248, "height": 232 },
+                    "kuosan/di_00007": { "width": 248, "height": 232 },
+                    "kuosan/di_00008": { "width": 248, "height": 232 },
+                    "kuosan/di_00009": { "width": 248, "height": 232 },
+                    "kuosan/di_00010": { "width": 248, "height": 232 },
+                    "kuosan/di_00011": { "width": 248, "height": 232 },
+                    "kuosan/di_00012": { "width": 248, "height": 232 },
+                    "kuosan/di_00013": { "width": 248, "height": 232 },
+                    "kuosan/di_00014": { "width": 248, "height": 232 },
+                    "kuosan/di_00015": { "width": 248, "height": 232 },
+                    "kuosan/di_00016": { "width": 248, "height": 232 },
+                    "kuosan/di_00017": { "width": 248, "height": 232 },
+                    "kuosan/di_00018": { "width": 248, "height": 232 },
+                    "kuosan/di_00019": { "width": 248, "height": 232 },
+                    "kuosan/di_00020": { "width": 248, "height": 232 },
+                    "kuosan/di_00021": { "width": 248, "height": 232 },
+                    "kuosan/di_00022": { "width": 248, "height": 232 },
+                    "kuosan/di_00023": { "width": 248, "height": 232 },
+                    "kuosan/di_00024": { "width": 248, "height": 232 },
+                    "kuosan/di_00025": { "width": 248, "height": 232 },
+                    "kuosan/di_00026": { "width": 248, "height": 232 }
+                }
+            }
+        }
+    ],
+    "animations": {
+        "solitaire_prop_unlock_lizi1": {
+            "slots": {
+                "guang2": {
+                    "color": [
+                        { "color": "ffffff00" },
+                        { "time": 0.1333, "color": "ffffff32" },
+                        { "time": 0.8333, "color": "ffffff00" }
+                    ]
+                },
+                "kuosan/di_00001": {
+                    "attachment": [
+                        { "name": null },
+                        { "time": 0.2333, "name": "kuosan/di_00006" },
+                        { "time": 0.2667, "name": "kuosan/di_00008" },
+                        { "time": 0.3, "name": "kuosan/di_00010" },
+                        { "time": 0.3333, "name": "kuosan/di_00011" },
+                        { "time": 0.3667, "name": "kuosan/di_00012" },
+                        { "time": 0.4, "name": "kuosan/di_00013" },
+                        { "time": 0.4333, "name": "kuosan/di_00014" },
+                        { "time": 0.4667, "name": "kuosan/di_00015" },
+                        { "time": 0.5, "name": "kuosan/di_00016" },
+                        { "time": 0.5333, "name": "kuosan/di_00017" },
+                        { "time": 0.5667, "name": "kuosan/di_00018" },
+                        { "time": 0.6, "name": "kuosan/di_00019" },
+                        { "time": 0.6333, "name": "kuosan/di_00020" },
+                        { "time": 0.6667, "name": "kuosan/di_00021" },
+                        { "time": 0.7, "name": "kuosan/di_00022" },
+                        { "time": 0.7333, "name": "kuosan/di_00023" },
+                        { "time": 0.7667, "name": "kuosan/di_00024" },
+                        { "time": 0.8, "name": "kuosan/di_00025" },
+                        { "time": 0.8333, "name": "kuosan/di_00026" },
+                        { "time": 0.8667, "name": null }
+                    ]
+                }
+            },
+            "bones": {
+                "kuosan1": {
+                    "translate": [{ "x": -2.12, "y": 152.07 }],
+                    "scale": [{ "x": 1.3, "y": 1.3 }]
+                },
+                "feiggg1": {
+                    "scale": [
+                        { "time": 0.1333 },
+                        { "time": 0.8333, "x": 1.5, "y": 1.5 }
+                    ]
+                }
+            }
+        }
+    }
+}

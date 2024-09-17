@@ -1,0 +1,62 @@
+
+CT.png
+size: 942,1087
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+FX_text/text_00001
+  rotate: false
+  xy: 586, 308
+  size: 170, 243
+  orig: 393, 289
+  offset: 12, 30
+  index: -1
+FX_text/text_00002
+  rotate: false
+  xy: 586, 553
+  size: 274, 258
+  orig: 393, 289
+  offset: 12, 25
+  index: -1
+FX_text/text_00003
+  rotate: false
+  xy: 583, 813
+  size: 357, 272
+  orig: 393, 289
+  offset: 12, 11
+  index: -1
+FX_text/text_00004
+  rotate: false
+  xy: 376, 3
+  size: 372, 273
+  orig: 393, 289
+  offset: 12, 10
+  index: -1
+FX_text/text_00005
+  rotate: false
+  xy: 2, 2
+  size: 372, 274
+  orig: 393, 289
+  offset: 12, 9
+  index: -1
+circle
+  rotate: false
+  xy: 124, 621
+  size: 457, 464
+  orig: 504, 474
+  offset: 22, 2
+  index: -1
+kiem
+  rotate: false
+  xy: 2, 283
+  size: 120, 802
+  orig: 130, 814
+  offset: 5, 8
+  index: -1
+text
+  rotate: false
+  xy: 124, 278
+  size: 460, 341
+  orig: 467, 349
+  offset: 3, 4
+  index: -1

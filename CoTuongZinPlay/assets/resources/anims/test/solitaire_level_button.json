@@ -1,0 +1,212 @@
+{
+    "skeleton": {
+        "hash": "lS3WbIPrB3KfecFvv8JJX4o1HWo",
+        "spine": "3.8.88",
+        "x": -205,
+        "y": -72,
+        "width": 410,
+        "height": 144,
+        "images": "./images/",
+        "audio": "D:/工作/solitaire/界面特效/签到"
+    },
+    "bones": [
+        { "name": "root" },
+        { "name": "anniuzong", "parent": "root" },
+        {
+            "name": "naniu",
+            "parent": "anniuzong",
+            "length": 127.91,
+            "rotation": 90.5,
+            "x": 0.27,
+            "y": -63.86
+        }
+    ],
+    "slots": [
+        {
+            "name": "solitaire_qiandao_anniu",
+            "bone": "naniu",
+            "attachment": "solitaire_qiandao_anniu"
+        }
+    ],
+    "skins": [
+        {
+            "name": "default",
+            "attachments": {
+                "solitaire_qiandao_anniu": {
+                    "solitaire_qiandao_anniu": {
+                        "x": 63.86,
+                        "y": -0.29,
+                        "rotation": -90.5,
+                        "width": 410,
+                        "height": 144
+                    }
+                }
+            }
+        }
+    ],
+    "animations": {
+        "anniu": {
+            "slots": {
+                "solitaire_qiandao_anniu": {
+                    "color": [
+                        { "color": "ffffffff", "curve": "stepped" },
+                        {
+                            "time": 0.1333,
+                            "color": "ffffffff",
+                            "curve": "stepped"
+                        },
+                        {
+                            "time": 0.2667,
+                            "color": "ffffffff",
+                            "curve": "stepped"
+                        },
+                        {
+                            "time": 0.4,
+                            "color": "ffffffff",
+                            "curve": "stepped"
+                        },
+                        {
+                            "time": 0.5333,
+                            "color": "ffffffff",
+                            "curve": "stepped"
+                        },
+                        { "time": 0.6667, "color": "ffffffff" }
+                    ],
+                    "attachment": [
+                        { "name": "solitaire_qiandao_anniu" },
+                        { "time": 0.1333, "name": "solitaire_qiandao_anniu" },
+                        { "time": 0.2667, "name": "solitaire_qiandao_anniu" },
+                        { "time": 0.4, "name": "solitaire_qiandao_anniu" },
+                        { "time": 0.5333, "name": "solitaire_qiandao_anniu" },
+                        { "time": 0.6667, "name": "solitaire_qiandao_anniu" }
+                    ]
+                }
+            },
+            "bones": {
+                "anniuzong": {
+                    "rotate": [{}],
+                    "translate": [{}],
+                    "scale": [{}]
+                },
+                "naniu": {
+                    "rotate": [
+                        { "curve": "stepped" },
+                        { "time": 0.1333, "curve": "stepped" },
+                        { "time": 0.2667, "curve": "stepped" },
+                        { "time": 0.4, "curve": "stepped" },
+                        { "time": 0.5333, "curve": "stepped" },
+                        { "time": 0.6667 }
+                    ],
+                    "translate": [
+                        { "curve": "stepped" },
+                        { "time": 0.1333, "curve": "stepped" },
+                        { "time": 0.2667, "curve": "stepped" },
+                        { "time": 0.4, "curve": "stepped" },
+                        { "time": 0.5333, "curve": "stepped" },
+                        { "time": 0.6667 }
+                    ],
+                    "scale": [
+                        {},
+                        { "time": 0.1333, "x": 0.94, "y": 1.06 },
+                        { "time": 0.2667, "x": 1.06, "y": 0.94 },
+                        { "time": 0.4, "x": 0.97, "y": 1.03 },
+                        { "time": 0.5333, "x": 1.03, "y": 0.97 },
+                        { "time": 0.6667 }
+                    ]
+                }
+            }
+        },
+        "anniu2": {
+            "slots": {
+                "solitaire_qiandao_anniu": {
+                    "color": [{ "color": "ffffffff" }],
+                    "attachment": [{ "name": "solitaire_qiandao_anniu" }]
+                }
+            },
+            "bones": {
+                "anniuzong": {
+                    "rotate": [{}],
+                    "translate": [{}],
+                    "scale": [{}]
+                },
+                "naniu": {
+                    "rotate": [{}],
+                    "translate": [{}],
+                    "scale": [{}]
+                }
+            }
+        },
+        "anniu3": {
+            "slots": {
+                "solitaire_qiandao_anniu": {
+                    "color": [
+                        { "color": "ffffffff", "curve": "stepped" },
+                        {
+                            "time": 0.5,
+                            "color": "ffffffff",
+                            "curve": "stepped"
+                        },
+                        {
+                            "time": 0.6,
+                            "color": "ffffffff",
+                            "curve": "stepped"
+                        },
+                        {
+                            "time": 0.7333,
+                            "color": "ffffffff",
+                            "curve": "stepped"
+                        },
+                        {
+                            "time": 0.8333,
+                            "color": "ffffffff",
+                            "curve": "stepped"
+                        },
+                        {
+                            "time": 0.9667,
+                            "color": "ffffffff",
+                            "curve": "stepped"
+                        },
+                        { "time": 1.1, "color": "ffffffff" }
+                    ],
+                    "attachment": [{ "name": "solitaire_qiandao_anniu" }]
+                }
+            },
+            "bones": {
+                "anniuzong": {
+                    "rotate": [{}],
+                    "translate": [{}],
+                    "scale": [{}]
+                },
+                "naniu": {
+                    "rotate": [
+                        { "curve": "stepped" },
+                        { "time": 0.5, "curve": "stepped" },
+                        { "time": 0.6, "curve": "stepped" },
+                        { "time": 0.7333, "curve": "stepped" },
+                        { "time": 0.8333, "curve": "stepped" },
+                        { "time": 0.9667, "curve": "stepped" },
+                        { "time": 1.1 }
+                    ],
+                    "translate": [
+                        { "curve": "stepped" },
+                        { "time": 0.5, "curve": "stepped" },
+                        { "time": 0.6, "curve": "stepped" },
+                        { "time": 0.7333, "curve": "stepped" },
+                        { "time": 0.8333, "curve": "stepped" },
+                        { "time": 0.9667, "curve": "stepped" },
+                        { "time": 1.1 }
+                    ],
+                    "scale": [
+                        {},
+                        { "time": 0.5, "x": 0.7, "y": 1.2 },
+                        { "time": 0.6, "x": 1.2, "y": 0.8 },
+                        { "time": 0.7333, "x": 0.9, "y": 1.1 },
+                        { "time": 0.8333, "x": 1.05, "y": 0.95 },
+                        { "time": 0.9667, "x": 0.95, "y": 1.05 },
+                        { "time": 1.1 }
+                    ]
+                }
+            }
+        }
+    }
+}

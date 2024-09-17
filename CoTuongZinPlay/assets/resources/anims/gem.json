@@ -1,0 +1,135 @@
+{
+    "skeleton": {
+        "hash": "eIyfMLJEj7Q",
+        "spine": "3.8-from-4.0-from-4.1.24",
+        "x": -43.4,
+        "y": -43.14,
+        "width": 86,
+        "height": 83,
+        "images": "./images/",
+        "audio": "E:/a_IIC/1_slot/anim/Ui/cac_button/gem"
+    },
+    "bones": [
+        { "name": "root" },
+        { "name": "grm", "parent": "root", "x": 0.98, "y": -0.19 }
+    ],
+    "slots": [
+        { "name": "grm", "bone": "grm", "attachment": "grm" },
+        { "name": "l1", "bone": "grm" }
+    ],
+    "skins": [
+        {
+            "name": "default",
+            "attachments": {
+                "grm": {
+                    "grm": { "x": -1.37, "y": -1.45, "width": 86, "height": 83 }
+                },
+                "l1": {
+                    "l1": {
+                        "x": -29.37,
+                        "y": 16.05,
+                        "width": 30,
+                        "height": 48
+                    },
+                    "l2": {
+                        "x": -27.37,
+                        "y": 14.55,
+                        "width": 34,
+                        "height": 51
+                    },
+                    "l3": {
+                        "x": -23.87,
+                        "y": 13.55,
+                        "width": 41,
+                        "height": 53
+                    },
+                    "l4": { "x": -22.37, "y": 9.05, "width": 44, "height": 62 },
+                    "l5": { "x": -15.37, "y": 4.55, "width": 58, "height": 71 },
+                    "l6": { "x": -9.37, "y": -0.95, "width": 66, "height": 82 },
+                    "l7": { "x": -7.37, "y": -1.45, "width": 66, "height": 83 },
+                    "l8": { "x": -6.37, "y": -1.45, "width": 68, "height": 83 },
+                    "l9": { "x": -5.87, "y": -1.45, "width": 69, "height": 83 },
+                    "l10": {
+                        "x": -0.87,
+                        "y": -1.45,
+                        "width": 69,
+                        "height": 83
+                    },
+                    "l11": {
+                        "x": -0.37,
+                        "y": -1.45,
+                        "width": 70,
+                        "height": 83
+                    },
+                    "l12": { "x": 8.13, "y": -3.95, "width": 59, "height": 78 },
+                    "l13": {
+                        "x": 14.13,
+                        "y": -6.45,
+                        "width": 55,
+                        "height": 73
+                    },
+                    "l14": {
+                        "x": 17.63,
+                        "y": -8.95,
+                        "width": 48,
+                        "height": 68
+                    },
+                    "l15": {
+                        "x": 20.63,
+                        "y": -12.95,
+                        "width": 42,
+                        "height": 60
+                    },
+                    "l16": {
+                        "x": 23.13,
+                        "y": -15.45,
+                        "width": 37,
+                        "height": 55
+                    },
+                    "l17": {
+                        "x": 25.13,
+                        "y": -17.45,
+                        "width": 33,
+                        "height": 51
+                    },
+                    "l18": {
+                        "x": 26.63,
+                        "y": -18.45,
+                        "width": 30,
+                        "height": 49
+                    }
+                }
+            }
+        }
+    ],
+    "animations": {
+        "idle": {
+            "slots": {
+                "l1": {
+                    "attachment": [
+                        { "name": "l1" },
+                        { "time": 0.0333, "name": "l2" },
+                        { "time": 0.0667, "name": "l3" },
+                        { "time": 0.1, "name": "l4" },
+                        { "time": 0.1333, "name": "l5" },
+                        { "time": 0.1667, "name": "l6" },
+                        { "time": 0.2, "name": "l7" },
+                        { "time": 0.2333, "name": "l8" },
+                        { "time": 0.2667, "name": "l9" },
+                        { "time": 0.3, "name": "l10" },
+                        { "time": 0.3333, "name": "l11" },
+                        { "time": 0.3667, "name": "l12" },
+                        { "time": 0.4, "name": "l13" },
+                        { "time": 0.4333, "name": "l14" },
+                        { "time": 0.4667, "name": "l15" },
+                        { "time": 0.5, "name": "l16" },
+                        { "time": 0.5333, "name": "l17" },
+                        { "time": 0.5667, "name": "l18" },
+                        { "time": 0.6, "name": null },
+                        { "time": 2, "name": null }
+                    ]
+                }
+            }
+        }
+    }
+}

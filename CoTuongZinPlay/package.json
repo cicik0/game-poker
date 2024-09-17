@@ -1,0 +1,14 @@
+{
+  "name": "Chesita",
+  "uuid": "9122507e-ae40-4154-ab4b-4513afe274ec",
+  "scripts": {
+    "g": "node version_generator.js -u https://mdlbingo.deviic.online/Chesita/ -s build/android/assets/ -d build -v 1.5.5",
+    "o": "node version_generator.js -u https://mdlbingo.deviic.online/Chesita/ -s build/android/assets/ -d assets/HotUpdate -v 1.5.6",
+    "gt": "node version_generator.js -u https://mdlbingo.deviic.online/ChesitaTest/ -s build/android/assets/ -d build -v 1.5.5",
+    "ot": "node version_generator.js -u https://mdlbingo.deviic.online/ChesitaTest/ -s build/android/assets/ -d assets/HotUdate -v 1.5.5"
+  },
+  "creator": {
+    "version": "3.8.3"
+  },
+  "version": "3.8.3"
+}

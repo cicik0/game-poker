@@ -1,0 +1,90 @@
+
+sunshine.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/1
+  rotate: false
+  xy: 257, 148
+  size: 62, 73
+  orig: 62, 73
+  offset: 0, 0
+  index: -1
+images/11112222334
+  rotate: false
+  xy: 2, 27
+  size: 119, 227
+  orig: 119, 227
+  offset: 0, 0
+  index: -1
+images/222
+  rotate: false
+  xy: 389, 196
+  size: 24, 25
+  orig: 24, 25
+  offset: 0, 0
+  index: -1
+images/fangkuang
+  rotate: false
+  xy: 123, 30
+  size: 96, 89
+  orig: 96, 89
+  offset: 0, 0
+  index: -1
+images/g_x_10
+  rotate: false
+  xy: 257, 223
+  size: 205, 31
+  orig: 205, 31
+  offset: 0, 0
+  index: -1
+images/guangyun
+  rotate: false
+  xy: 321, 154
+  size: 66, 67
+  orig: 66, 67
+  offset: 0, 0
+  index: -1
+images/light0041
+  rotate: false
+  xy: 123, 121
+  size: 132, 133
+  orig: 132, 133
+  offset: 0, 0
+  index: -1
+images/light0042
+  rotate: false
+  xy: 464, 224
+  size: 29, 30
+  orig: 29, 30
+  offset: 0, 0
+  index: -1
+images/light_01
+  rotate: false
+  xy: 257, 128
+  size: 48, 18
+  orig: 48, 18
+  offset: 0, 0
+  index: -1
+images/light_02
+  rotate: true
+  xy: 221, 72
+  size: 47, 21
+  orig: 47, 21
+  offset: 0, 0
+  index: -1
+images/tuoweidian
+  rotate: false
+  xy: 2, 2
+  size: 23, 23
+  orig: 23, 23
+  offset: 0, 0
+  index: -1
+images/tuoweidian2
+  rotate: false
+  xy: 27, 2
+  size: 23, 23
+  orig: 23, 23
+  offset: 0, 0
+  index: -1

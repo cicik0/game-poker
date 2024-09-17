@@ -1,0 +1,111 @@
+
+Co hoa.png
+size: 781,371
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+L1
+  rotate: false
+  xy: 736, 199
+  size: 37, 48
+  orig: 37, 48
+  offset: 0, 0
+  index: -1
+L2
+  rotate: false
+  xy: 660, 211
+  size: 74, 36
+  orig: 74, 36
+  offset: 0, 0
+  index: -1
+L3
+  rotate: false
+  xy: 525, 119
+  size: 37, 47
+  orig: 37, 47
+  offset: 0, 0
+  index: -1
+L_w1
+  rotate: false
+  xy: 660, 310
+  size: 119, 59
+  orig: 119, 59
+  offset: 0, 0
+  index: -1
+L_w2
+  rotate: false
+  xy: 660, 135
+  size: 53, 36
+  orig: 53, 37
+  offset: 0, 0
+  index: -1
+Lall
+  rotate: false
+  xy: 603, 134
+  size: 35, 32
+  orig: 36, 32
+  offset: 1, 0
+  index: -1
+R1
+  rotate: false
+  xy: 736, 149
+  size: 37, 48
+  orig: 37, 48
+  offset: 0, 0
+  index: -1
+R2
+  rotate: false
+  xy: 660, 173
+  size: 74, 36
+  orig: 74, 37
+  offset: 0, 1
+  index: -1
+R3
+  rotate: false
+  xy: 564, 119
+  size: 37, 47
+  orig: 37, 47
+  offset: 0, 0
+  index: -1
+R_w1
+  rotate: false
+  xy: 660, 249
+  size: 119, 59
+  orig: 119, 59
+  offset: 0, 0
+  index: -1
+R_w2
+  rotate: false
+  xy: 715, 111
+  size: 53, 36
+  orig: 53, 37
+  offset: 0, 0
+  index: -1
+Rall
+  rotate: false
+  xy: 640, 101
+  size: 35, 32
+  orig: 36, 32
+  offset: 1, 0
+  index: -1
+all
+  rotate: false
+  xy: 2, 2
+  size: 521, 164
+  orig: 521, 165
+  offset: 0, 0
+  index: -1
+co hoa
+  rotate: false
+  xy: 525, 19
+  size: 226, 80
+  orig: 226, 80
+  offset: 0, 0
+  index: -1
+hoa
+  rotate: false
+  xy: 2, 168
+  size: 656, 201
+  orig: 671, 210
+  offset: 7, 4
+  index: -1

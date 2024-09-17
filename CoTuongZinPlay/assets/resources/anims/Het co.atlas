@@ -1,0 +1,181 @@
+
+Het co.png
+size: 2021,2032
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+FX/FX_00001
+  rotate: false
+  xy: 1757, 613
+  size: 256, 315
+  orig: 671, 391
+  offset: 415, 60
+  index: -1
+FX/FX_00002
+  rotate: false
+  xy: 1326, 593
+  size: 429, 335
+  orig: 671, 391
+  offset: 242, 40
+  index: -1
+FX/FX_00003
+  rotate: false
+  xy: 1326, 930
+  size: 564, 356
+  orig: 671, 391
+  offset: 107, 19
+  index: -1
+FX/FX_00004
+  rotate: false
+  xy: 675, 928
+  size: 649, 358
+  orig: 671, 391
+  offset: 22, 17
+  index: -1
+FX/FX_00005
+  rotate: false
+  xy: 2, 918
+  size: 671, 368
+  orig: 671, 391
+  offset: 0, 7
+  index: -1
+FX/FX_00006
+  rotate: false
+  xy: 2, 1660
+  size: 671, 370
+  orig: 671, 391
+  offset: 0, 5
+  index: -1
+FX/FX_00007
+  rotate: false
+  xy: 2, 1660
+  size: 671, 370
+  orig: 671, 391
+  offset: 0, 5
+  index: -1
+FX/FX_00008
+  rotate: false
+  xy: 675, 1660
+  size: 671, 370
+  orig: 671, 391
+  offset: 0, 5
+  index: -1
+FX/FX_00009
+  rotate: false
+  xy: 1348, 1660
+  size: 671, 370
+  orig: 671, 391
+  offset: 0, 5
+  index: -1
+FX/FX_00010
+  rotate: false
+  xy: 2, 1288
+  size: 671, 370
+  orig: 671, 391
+  offset: 0, 5
+  index: -1
+FX/FX_00011
+  rotate: false
+  xy: 675, 1288
+  size: 671, 370
+  orig: 671, 391
+  offset: 0, 5
+  index: -1
+FX/FX_00012
+  rotate: false
+  xy: 1348, 1288
+  size: 671, 370
+  orig: 671, 391
+  offset: 0, 5
+  index: -1
+FX_text/FX_text_00002
+  rotate: false
+  xy: 2, 721
+  size: 484, 195
+  orig: 502, 202
+  offset: 9, 4
+  index: -1
+FX_text/FX_text_00003
+  rotate: false
+  xy: 2, 524
+  size: 484, 195
+  orig: 502, 202
+  offset: 9, 4
+  index: -1
+FX_text/FX_text_00004
+  rotate: false
+  xy: 488, 510
+  size: 484, 195
+  orig: 502, 202
+  offset: 9, 4
+  index: -1
+FX_text/FX_text_00005
+  rotate: false
+  xy: 2, 327
+  size: 484, 195
+  orig: 502, 202
+  offset: 9, 4
+  index: -1
+FX_text/FX_text_00006
+  rotate: false
+  xy: 974, 396
+  size: 484, 195
+  orig: 502, 202
+  offset: 9, 4
+  index: -1
+FX_text/FX_text_00007
+  rotate: false
+  xy: 488, 313
+  size: 484, 195
+  orig: 502, 202
+  offset: 9, 4
+  index: -1
+FX_text/FX_text_00008
+  rotate: false
+  xy: 2, 130
+  size: 484, 195
+  orig: 502, 202
+  offset: 9, 4
+  index: -1
+FX_text/FX_text_00009
+  rotate: false
+  xy: 1460, 396
+  size: 484, 195
+  orig: 502, 202
+  offset: 9, 4
+  index: -1
+FX_text/FX_text_00010
+  rotate: false
+  xy: 974, 199
+  size: 484, 195
+  orig: 502, 202
+  offset: 9, 4
+  index: -1
+FX_text/FX_text_00011
+  rotate: false
+  xy: 488, 116
+  size: 484, 195
+  orig: 502, 202
+  offset: 9, 4
+  index: -1
+FX_text/FX_text_00012
+  rotate: false
+  xy: 974, 2
+  size: 484, 195
+  orig: 502, 202
+  offset: 9, 4
+  index: -1
+FX_text/FX_text_00014
+  rotate: false
+  xy: 1460, 199
+  size: 484, 195
+  orig: 502, 202
+  offset: 9, 4
+  index: -1
+text
+  rotate: false
+  xy: 675, 707
+  size: 522, 219
+  orig: 526, 224
+  offset: 2, 3
+  index: -1

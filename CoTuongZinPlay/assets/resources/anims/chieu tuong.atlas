@@ -1,0 +1,90 @@
+
+chieu tuong.png
+size: 941,753
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+FX blood
+  rotate: false
+  xy: 763, 146
+  size: 176, 386
+  orig: 178, 393
+  offset: 1, 1
+  index: -1
+FX/Text_00001
+  rotate: false
+  xy: 326, 2
+  size: 170, 151
+  orig: 519, 258
+  offset: 14, 38
+  index: -1
+FX/Text_00002
+  rotate: false
+  xy: 2, 24
+  size: 322, 151
+  orig: 519, 258
+  offset: 14, 38
+  index: -1
+FX/Text_00003
+  rotate: false
+  xy: 2, 410
+  size: 452, 151
+  orig: 519, 258
+  offset: 14, 38
+  index: -1
+FX/Text_00004
+  rotate: false
+  xy: 2, 563
+  size: 492, 188
+  orig: 519, 258
+  offset: 14, 38
+  index: -1
+p1
+  rotate: false
+  xy: 456, 351
+  size: 284, 181
+  orig: 284, 181
+  offset: 0, 0
+  index: -1
+p1 copy
+  rotate: false
+  xy: 345, 155
+  size: 283, 194
+  orig: 283, 195
+  offset: 0, 1
+  index: -1
+p2
+  rotate: false
+  xy: 496, 534
+  size: 341, 217
+  orig: 341, 217
+  offset: 0, 0
+  index: -1
+p2 copy
+  rotate: false
+  xy: 2, 177
+  size: 341, 231
+  orig: 341, 231
+  offset: 0, 0
+  index: -1
+slide 1
+  rotate: false
+  xy: 839, 614
+  size: 40, 137
+  orig: 43, 139
+  offset: 1, 2
+  index: -1
+slide 2
+  rotate: false
+  xy: 630, 2
+  size: 131, 347
+  orig: 134, 351
+  offset: 2, 1
+  index: -1
+slide 3
+  rotate: false
+  xy: 498, 48
+  size: 103, 105
+  orig: 107, 109
+  offset: 2, 1
+  index: -1

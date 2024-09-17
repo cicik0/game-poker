@@ -1,0 +1,529 @@
+
+solitaire_level_button_lizi.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+111lizi_00006
+  rotate: false
+  xy: 627, 924
+  size: 245, 94
+  orig: 634, 438
+  offset: 175, 150
+  index: -1
+111lizi_00007
+  rotate: false
+  xy: 450, 821
+  size: 244, 101
+  orig: 634, 438
+  offset: 176, 143
+  index: -1
+111lizi_00008
+  rotate: false
+  xy: 696, 812
+  size: 244, 101
+  orig: 634, 438
+  offset: 176, 143
+  index: -1
+111lizi_00009
+  rotate: false
+  xy: 2, 741
+  size: 244, 102
+  orig: 634, 438
+  offset: 177, 143
+  index: -1
+111lizi_00010
+  rotate: false
+  xy: 387, 708
+  size: 243, 111
+  orig: 634, 438
+  offset: 178, 136
+  index: -1
+111lizi_00011
+  rotate: false
+  xy: 632, 698
+  size: 242, 112
+  orig: 634, 438
+  offset: 179, 137
+  index: -1
+111lizi_00012
+  rotate: false
+  xy: 2, 625
+  size: 244, 114
+  orig: 634, 438
+  offset: 179, 138
+  index: -1
+111lizi_00013
+  rotate: false
+  xy: 248, 590
+  size: 245, 116
+  orig: 634, 438
+  offset: 180, 138
+  index: -1
+111lizi_00014
+  rotate: false
+  xy: 495, 579
+  size: 254, 117
+  orig: 634, 438
+  offset: 174, 139
+  index: -1
+111lizi_00015
+  rotate: false
+  xy: 227, 469
+  size: 253, 119
+  orig: 634, 438
+  offset: 176, 139
+  index: -1
+111lizi_00016
+  rotate: false
+  xy: 482, 455
+  size: 255, 122
+  orig: 634, 438
+  offset: 177, 139
+  index: -1
+111lizi_00017
+  rotate: false
+  xy: 739, 435
+  size: 254, 122
+  orig: 634, 438
+  offset: 179, 140
+  index: -1
+111lizi_00018
+  rotate: false
+  xy: 156, 343
+  size: 255, 124
+  orig: 634, 438
+  offset: 180, 140
+  index: -1
+111lizi_00019
+  rotate: false
+  xy: 413, 328
+  size: 256, 125
+  orig: 634, 438
+  offset: 181, 141
+  index: -1
+111lizi_00020
+  rotate: false
+  xy: 671, 306
+  size: 255, 127
+  orig: 634, 438
+  offset: 183, 141
+  index: -1
+111lizi_00021
+  rotate: false
+  xy: 2, 212
+  size: 256, 129
+  orig: 634, 438
+  offset: 184, 141
+  index: -1
+111lizi_00022
+  rotate: false
+  xy: 260, 195
+  size: 257, 131
+  orig: 634, 438
+  offset: 185, 141
+  index: -1
+111lizi_00023
+  rotate: false
+  xy: 519, 171
+  size: 267, 133
+  orig: 634, 438
+  offset: 176, 140
+  index: -1
+111lizi_00024
+  rotate: false
+  xy: 239, 58
+  size: 269, 135
+  orig: 634, 438
+  offset: 176, 140
+  index: -1
+111lizi_00025
+  rotate: false
+  xy: 510, 31
+  size: 271, 138
+  orig: 634, 438
+  offset: 176, 139
+  index: -1
+222xing_00001
+  rotate: false
+  xy: 2, 983
+  size: 137, 35
+  orig: 720, 554
+  offset: 297, 261
+  index: -1
+222xing_00002
+  rotate: false
+  xy: 141, 964
+  size: 156, 54
+  orig: 720, 554
+  offset: 276, 252
+  index: -1
+222xing_00003
+  rotate: false
+  xy: 299, 947
+  size: 154, 71
+  orig: 720, 554
+  offset: 276, 241
+  index: -1
+222xing_00004
+  rotate: false
+  xy: 455, 932
+  size: 170, 86
+  orig: 720, 554
+  offset: 263, 232
+  index: -1
+222xing_00005
+  rotate: false
+  xy: 258, 843
+  size: 190, 102
+  orig: 720, 554
+  offset: 252, 225
+  index: -1
+222xing_00006
+  rotate: false
+  xy: 751, 559
+  size: 208, 117
+  orig: 720, 554
+  offset: 243, 219
+  index: -1
+222xing_00007
+  rotate: false
+  xy: 2, 493
+  size: 223, 130
+  orig: 720, 554
+  offset: 235, 214
+  index: -1
+222xing_00008
+  rotate: false
+  xy: 2, 69
+  size: 235, 141
+  orig: 720, 554
+  offset: 229, 210
+  index: -1
+solitaire_qiandao_lizi_00016
+  rotate: true
+  xy: 874, 915
+  size: 103, 114
+  orig: 260, 264
+  offset: 85, 76
+  index: -1
+solitaire_qiandao_lizi_00017
+  rotate: true
+  xy: 2, 872
+  size: 109, 123
+  orig: 260, 264
+  offset: 82, 71
+  index: -1
+solitaire_qiandao_lizi_00018
+  rotate: true
+  xy: 127, 845
+  size: 117, 129
+  orig: 260, 264
+  offset: 78, 68
+  index: -1
+solitaire_qiandao_lizi_00019
+  rotate: true
+  xy: 248, 716
+  size: 125, 137
+  orig: 260, 264
+  offset: 73, 64
+  index: -1
+solitaire_qiandao_lizi_00020
+  rotate: true
+  xy: 876, 678
+  size: 132, 145
+  orig: 260, 264
+  offset: 68, 60
+  index: -1
+solitaire_qiandao_lizi_00021
+  rotate: true
+  xy: 2, 351
+  size: 140, 152
+  orig: 260, 264
+  offset: 63, 56
+  index: -1
+solitaire_qiandao_lizi_00022
+  rotate: true
+  xy: 788, 157
+  size: 147, 160
+  orig: 260, 264
+  offset: 59, 52
+  index: -1
+solitaire_qiandao_lizi_00023
+  rotate: true
+  xy: 783, 2
+  size: 153, 169
+  orig: 260, 264
+  offset: 55, 48
+  index: -1
+
+solitaire_level_button_lizi2.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+111lizi_00031
+  rotate: true
+  xy: 789, 499
+  size: 281, 153
+  orig: 634, 438
+  offset: 175, 134
+  index: -1
+222xing_00017
+  rotate: false
+  xy: 647, 96
+  size: 294, 191
+  orig: 720, 554
+  offset: 198, 190
+  index: -1
+222xing_00018
+  rotate: true
+  xy: 451, 3
+  size: 296, 194
+  orig: 720, 554
+  offset: 197, 189
+  index: -1
+222xing_00019
+  rotate: true
+  xy: 2, 2
+  size: 297, 194
+  orig: 720, 554
+  offset: 197, 189
+  index: -1
+222xing_00020
+  rotate: false
+  xy: 461, 301
+  size: 298, 196
+  orig: 720, 554
+  offset: 196, 188
+  index: -1
+222xing_00021
+  rotate: false
+  xy: 254, 543
+  size: 299, 196
+  orig: 720, 554
+  offset: 196, 188
+  index: -1
+222xing_00022
+  rotate: false
+  xy: 2, 808
+  size: 300, 197
+  orig: 720, 554
+  offset: 195, 188
+  index: -1
+solitaire_qiandao_lizi_00027
+  rotate: false
+  xy: 800, 805
+  size: 187, 200
+  orig: 260, 264
+  offset: 37, 33
+  index: -1
+solitaire_qiandao_lizi_00028
+  rotate: false
+  xy: 761, 289
+  size: 195, 208
+  orig: 260, 264
+  offset: 33, 29
+  index: -1
+solitaire_qiandao_lizi_00029
+  rotate: false
+  xy: 245, 99
+  size: 204, 216
+  orig: 260, 264
+  offset: 29, 25
+  index: -1
+solitaire_qiandao_lizi_00030
+  rotate: false
+  xy: 245, 317
+  size: 214, 224
+  orig: 260, 264
+  offset: 24, 21
+  index: -1
+solitaire_qiandao_lizi_00031
+  rotate: true
+  xy: 566, 782
+  size: 223, 232
+  orig: 260, 264
+  offset: 19, 17
+  index: -1
+solitaire_qiandao_lizi_00032
+  rotate: false
+  xy: 555, 499
+  size: 232, 240
+  orig: 260, 264
+  offset: 14, 13
+  index: -1
+solitaire_qiandao_lizi_00033
+  rotate: false
+  xy: 2, 301
+  size: 241, 248
+  orig: 260, 264
+  offset: 10, 9
+  index: -1
+solitaire_qiandao_lizi_00034
+  rotate: false
+  xy: 2, 551
+  size: 250, 255
+  orig: 260, 264
+  offset: 5, 5
+  index: -1
+solitaire_qiandao_lizi_00035
+  rotate: false
+  xy: 304, 741
+  size: 260, 264
+  orig: 260, 264
+  offset: 0, 0
+  index: -1
+
+solitaire_level_button_lizi3.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+111lizi_00026
+  rotate: false
+  xy: 2, 376
+  size: 272, 141
+  orig: 634, 438
+  offset: 176, 138
+  index: -1
+111lizi_00027
+  rotate: true
+  xy: 875, 460
+  size: 275, 142
+  orig: 634, 438
+  offset: 175, 138
+  index: -1
+111lizi_00028
+  rotate: true
+  xy: 877, 737
+  size: 276, 145
+  orig: 634, 438
+  offset: 175, 137
+  index: -1
+111lizi_00029
+  rotate: false
+  xy: 2, 519
+  size: 278, 148
+  orig: 634, 438
+  offset: 175, 136
+  index: -1
+111lizi_00030
+  rotate: false
+  xy: 2, 669
+  size: 279, 151
+  orig: 634, 438
+  offset: 175, 135
+  index: -1
+111lizi_00032
+  rotate: false
+  xy: 581, 506
+  size: 282, 157
+  orig: 634, 438
+  offset: 175, 132
+  index: -1
+111lizi_00033
+  rotate: false
+  xy: 589, 665
+  size: 284, 160
+  orig: 634, 438
+  offset: 175, 131
+  index: -1
+222xing_00009
+  rotate: false
+  xy: 537, 16
+  size: 247, 151
+  orig: 720, 554
+  offset: 222, 206
+  index: -1
+222xing_00010
+  rotate: false
+  xy: 542, 169
+  size: 257, 160
+  orig: 720, 554
+  offset: 217, 202
+  index: -1
+222xing_00011
+  rotate: false
+  xy: 276, 291
+  size: 264, 167
+  orig: 720, 554
+  offset: 213, 199
+  index: -1
+222xing_00012
+  rotate: false
+  xy: 561, 331
+  size: 271, 173
+  orig: 720, 554
+  offset: 209, 197
+  index: -1
+222xing_00013
+  rotate: false
+  xy: 282, 460
+  size: 277, 178
+  orig: 720, 554
+  offset: 206, 195
+  index: -1
+222xing_00014
+  rotate: false
+  xy: 297, 640
+  size: 282, 182
+  orig: 720, 554
+  offset: 204, 193
+  index: -1
+222xing_00015
+  rotate: false
+  xy: 589, 827
+  size: 286, 186
+  orig: 720, 554
+  offset: 202, 192
+  index: -1
+222xing_00016
+  rotate: false
+  xy: 297, 824
+  size: 290, 189
+  orig: 720, 554
+  offset: 200, 191
+  index: -1
+222xing_00023
+  rotate: false
+  xy: 2, 822
+  size: 293, 191
+  orig: 720, 554
+  offset: 202, 192
+  index: -1
+222xing_00024
+  rotate: false
+  xy: 2, 183
+  size: 262, 191
+  orig: 720, 554
+  offset: 202, 192
+  index: -1
+solitaire_qiandao_lizi_00024
+  rotate: false
+  xy: 375, 112
+  size: 160, 177
+  orig: 260, 264
+  offset: 52, 44
+  index: -1
+solitaire_qiandao_lizi_00025
+  rotate: true
+  xy: 834, 289
+  size: 169, 185
+  orig: 260, 264
+  offset: 47, 40
+  index: -1
+solitaire_qiandao_lizi_00026
+  rotate: true
+  xy: 2, 2
+  size: 179, 193
+  orig: 260, 264
+  offset: 42, 36
+  index: -1
+solitaire_qiandao_liziguang
+  rotate: false
+  xy: 197, 3
+  size: 176, 178
+  orig: 204, 204
+  offset: 14, 13
+  index: -1

@@ -1,0 +1,385 @@
+{
+    "skeleton": {
+        "hash": "sfBMhcrtrpsoZkzNw5bqgBZAAJA",
+        "spine": "3.8.99",
+        "x": -254.44,
+        "y": -11.36,
+        "width": 518.19,
+        "height": 814,
+        "images": "./images/",
+        "audio": "F:/Job 2024/A Hoang/Co Tuong/Gameplay/Chieu tuong 2"
+    },
+    "bones": [
+        { "name": "root", "x": -253.44, "y": 800.64 },
+        {
+            "name": "FX",
+            "parent": "root",
+            "x": 269.81,
+            "y": -458.37,
+            "scaleX": 1.253,
+            "scaleY": 1.253
+        },
+        {
+            "name": "kiem",
+            "parent": "root",
+            "length": 194.59,
+            "rotation": -88.74,
+            "x": 246,
+            "y": -210.49
+        },
+        { "name": "circle", "parent": "root", "x": 246.63, "y": -473.09 },
+        {
+            "name": "FX2",
+            "parent": "root",
+            "x": 269.81,
+            "y": -458.37,
+            "scaleX": 1.253,
+            "scaleY": 1.253
+        }
+    ],
+    "slots": [
+        { "name": "circle", "bone": "circle", "attachment": "circle" },
+        { "name": "kiem", "bone": "kiem", "attachment": "kiem" },
+        { "name": "text", "bone": "root" },
+        {
+            "name": "FX_text/text_00001",
+            "bone": "FX",
+            "attachment": "FX_text/text_00005"
+        },
+        {
+            "name": "FX_text/text_1",
+            "bone": "FX2",
+            "attachment": "FX_text/text_00005"
+        }
+    ],
+    "skins": [
+        {
+            "name": "default",
+            "attachments": {
+                "FX_text/text_00001": {
+                    "FX_text/text_00001": {
+                        "x": 0.92,
+                        "y": -0.46,
+                        "width": 393,
+                        "height": 289
+                    },
+                    "FX_text/text_00002": {
+                        "x": 0.92,
+                        "y": -0.46,
+                        "width": 393,
+                        "height": 289
+                    },
+                    "FX_text/text_00003": {
+                        "x": 0.92,
+                        "y": -0.46,
+                        "width": 393,
+                        "height": 289
+                    },
+                    "FX_text/text_00004": {
+                        "x": 0.92,
+                        "y": -0.46,
+                        "width": 393,
+                        "height": 289
+                    },
+                    "FX_text/text_00005": {
+                        "x": 0.92,
+                        "y": -0.46,
+                        "width": 393,
+                        "height": 289
+                    }
+                },
+                "FX_text/text_1": {
+                    "FX_text/text_00005": {
+                        "x": 0.92,
+                        "y": -0.46,
+                        "width": 393,
+                        "height": 289
+                    }
+                },
+                "circle": {
+                    "circle": {
+                        "x": 4.37,
+                        "y": -19.91,
+                        "width": 504,
+                        "height": 474
+                    }
+                },
+                "kiem": {
+                    "kiem": {
+                        "x": 194.57,
+                        "y": 0.71,
+                        "rotation": 88.74,
+                        "width": 130,
+                        "height": 814
+                    }
+                },
+                "text": {
+                    "text": {
+                        "x": 275.5,
+                        "y": -460.5,
+                        "width": 467,
+                        "height": 349
+                    }
+                }
+            }
+        }
+    ],
+    "animations": {
+        "Chieu tuong 1": {
+            "slots": {
+                "FX_text/text_00001": {
+                    "color": [
+                        {
+                            "time": 2.3667,
+                            "color": "ffffffff",
+                            "curve": 0.348,
+                            "c3": 0.636
+                        },
+                        { "time": 2.5333, "color": "ffffff00" }
+                    ],
+                    "attachment": [
+                        { "name": null },
+                        { "time": 0.0667, "name": "FX_text/text_00001" },
+                        { "time": 0.1, "name": "FX_text/text_00002" },
+                        { "time": 0.1333, "name": "FX_text/text_00003" },
+                        { "time": 0.1667, "name": "FX_text/text_00004" },
+                        { "time": 0.2333, "name": "FX_text/text_00005" }
+                    ]
+                },
+                "FX_text/text_1": {
+                    "color": [
+                        {
+                            "time": 0.9,
+                            "color": "ffffffff",
+                            "curve": 0.34,
+                            "c3": 0.636
+                        },
+                        { "time": 1.2, "color": "ffffff00" }
+                    ],
+                    "attachment": [
+                        { "name": null },
+                        { "time": 0.9, "name": "FX_text/text_00005" }
+                    ]
+                },
+                "circle": {
+                    "color": [
+                        { "color": "ffffff00", "curve": "stepped" },
+                        {
+                            "time": 0.3,
+                            "color": "ffffff00",
+                            "curve": 0.174,
+                            "c2": 0.75,
+                            "c3": 0.636
+                        },
+                        {
+                            "time": 0.4667,
+                            "color": "ffffffff",
+                            "curve": "stepped"
+                        },
+                        {
+                            "time": 2.3333,
+                            "color": "ffffffff",
+                            "curve": 0.348,
+                            "c3": 0.636
+                        },
+                        { "time": 2.5667, "color": "ffffff00" }
+                    ]
+                },
+                "kiem": {
+                    "color": [
+                        { "color": "ffffff00", "curve": "stepped" },
+                        {
+                            "time": 0.3667,
+                            "color": "ffffff00",
+                            "curve": 0.303,
+                            "c2": 0.58,
+                            "c3": 0.636
+                        },
+                        {
+                            "time": 0.5333,
+                            "color": "ffffffff",
+                            "curve": "stepped"
+                        },
+                        {
+                            "time": 2.6,
+                            "color": "ffffffff",
+                            "curve": 0.348,
+                            "c3": 0.636
+                        },
+                        { "time": 2.8, "color": "ffffff00" }
+                    ]
+                }
+            },
+            "bones": {
+                "circle": {
+                    "rotate": [
+                        { "time": 0.3, "curve": 0.348, "c3": 0.636 },
+                        { "time": 2.5667, "angle": 29.1 }
+                    ]
+                },
+                "kiem": {
+                    "translate": [
+                        { "y": 515.19, "curve": "stepped" },
+                        {
+                            "time": 0.3667,
+                            "y": 515.19,
+                            "curve": 0.348,
+                            "c3": 0.696,
+                            "c4": 0.51
+                        },
+                        {
+                            "time": 0.6,
+                            "curve": 0.303,
+                            "c2": 0.34,
+                            "c3": 0.713,
+                            "c4": 0.76
+                        },
+                        {
+                            "time": 2.4,
+                            "y": -33.04,
+                            "curve": 0.17,
+                            "c2": 0.8,
+                            "c3": 0.441
+                        },
+                        { "time": 2.9, "y": -719.22 }
+                    ]
+                },
+                "FX2": {
+                    "scale": [
+                        { "time": 0.9, "curve": 0.348, "c3": 0.636 },
+                        { "time": 1.2, "x": 1.154, "y": 1.154 }
+                    ]
+                }
+            }
+        },
+        "Chieu tuong 2": {
+            "slots": {
+                "FX_text/text_00001": {
+                    "color": [
+                        {
+                            "time": 2.3667,
+                            "color": "ffffffff",
+                            "curve": 0.348,
+                            "c3": 0.636
+                        },
+                        { "time": 2.5333, "color": "ffffff00" }
+                    ],
+                    "attachment": [
+                        { "name": null },
+                        { "time": 0.0667, "name": "FX_text/text_00001" },
+                        { "time": 0.1, "name": "FX_text/text_00002" },
+                        { "time": 0.1333, "name": "FX_text/text_00003" },
+                        { "time": 0.1667, "name": "FX_text/text_00004" },
+                        { "time": 0.2333, "name": "FX_text/text_00005" }
+                    ]
+                },
+                "FX_text/text_1": {
+                    "color": [
+                        {
+                            "time": 0.9,
+                            "color": "ffffffff",
+                            "curve": 0.34,
+                            "c3": 0.636
+                        },
+                        { "time": 1.2, "color": "ffffff00" }
+                    ],
+                    "attachment": [
+                        { "name": null },
+                        { "time": 0.9, "name": "FX_text/text_00005" }
+                    ]
+                },
+                "circle": {
+                    "color": [
+                        { "color": "ffffff00", "curve": "stepped" },
+                        {
+                            "time": 0.3,
+                            "color": "ffffff00",
+                            "curve": 0.174,
+                            "c2": 0.75,
+                            "c3": 0.636
+                        },
+                        {
+                            "time": 0.4667,
+                            "color": "ffffffff",
+                            "curve": "stepped"
+                        },
+                        {
+                            "time": 2.3333,
+                            "color": "ffffffff",
+                            "curve": 0.348,
+                            "c3": 0.636
+                        },
+                        { "time": 2.5667, "color": "ffffff00" }
+                    ]
+                },
+                "kiem": {
+                    "color": [
+                        { "color": "ffffff00", "curve": "stepped" },
+                        {
+                            "time": 0.3667,
+                            "color": "ffffff00",
+                            "curve": 0.303,
+                            "c2": 0.58,
+                            "c3": 0.636
+                        },
+                        {
+                            "time": 0.5333,
+                            "color": "ffffffff",
+                            "curve": "stepped"
+                        },
+                        {
+                            "time": 2.6,
+                            "color": "ffffffff",
+                            "curve": 0.348,
+                            "c3": 0.636
+                        },
+                        { "time": 2.8, "color": "ffffff00" }
+                    ]
+                }
+            },
+            "bones": {
+                "circle": {
+                    "rotate": [
+                        { "time": 0.3, "curve": 0.348, "c3": 0.636 },
+                        { "time": 2.5667, "angle": 29.1 }
+                    ]
+                },
+                "kiem": {
+                    "rotate": [{ "angle": 180 }],
+                    "translate": [
+                        { "y": -987.1, "curve": "stepped" },
+                        {
+                            "time": 0.3333,
+                            "y": -987.1,
+                            "curve": 0.45,
+                            "c3": 0.724,
+                            "c4": 0.38
+                        },
+                        {
+                            "time": 0.5667,
+                            "y": -500.88,
+                            "curve": 0.31,
+                            "c2": 0.28,
+                            "c3": 0.734,
+                            "c4": 0.68
+                        },
+                        {
+                            "time": 2.4,
+                            "y": -465.21,
+                            "curve": 0.237,
+                            "c2": 0.66,
+                            "c3": 0.636
+                        },
+                        { "time": 2.9 }
+                    ]
+                },
+                "FX2": {
+                    "scale": [
+                        { "time": 0.9, "curve": 0.348, "c3": 0.636 },
+                        { "time": 1.2, "x": 1.154, "y": 1.154 }
+                    ]
+                }
+            }
+        }
+    }
+}

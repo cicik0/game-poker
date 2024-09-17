@@ -1,0 +1,251 @@
+
+Tran hay dang dau.png
+size: 990,1143
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BG
+  rotate: false
+  xy: 2, 808
+  size: 879, 333
+  orig: 881, 335
+  offset: 1, 1
+  index: -1
+FX/FX_text_00000
+  rotate: false
+  xy: 386, 650
+  size: 324, 156
+  orig: 375, 202
+  offset: 25, 23
+  index: -1
+FX/FX_text_00001
+  rotate: false
+  xy: 386, 650
+  size: 324, 156
+  orig: 375, 202
+  offset: 25, 23
+  index: -1
+FX/FX_text_00002
+  rotate: false
+  xy: 386, 650
+  size: 324, 156
+  orig: 375, 202
+  offset: 25, 23
+  index: -1
+FX/FX_text_00011
+  rotate: false
+  xy: 386, 650
+  size: 324, 156
+  orig: 375, 202
+  offset: 25, 23
+  index: -1
+FX/FX_text_00012
+  rotate: false
+  xy: 386, 650
+  size: 324, 156
+  orig: 375, 202
+  offset: 25, 23
+  index: -1
+FX/FX_text_00013
+  rotate: false
+  xy: 386, 650
+  size: 324, 156
+  orig: 375, 202
+  offset: 25, 23
+  index: -1
+FX/FX_text_00014
+  rotate: false
+  xy: 386, 650
+  size: 324, 156
+  orig: 375, 202
+  offset: 25, 23
+  index: -1
+FX/FX_text_00003
+  rotate: false
+  xy: 2, 244
+  size: 324, 156
+  orig: 375, 202
+  offset: 25, 23
+  index: -1
+FX/FX_text_00004
+  rotate: false
+  xy: 2, 86
+  size: 324, 156
+  orig: 375, 202
+  offset: 25, 23
+  index: -1
+FX/FX_text_00005
+  rotate: false
+  xy: 386, 492
+  size: 324, 156
+  orig: 375, 202
+  offset: 25, 23
+  index: -1
+FX/FX_text_00006
+  rotate: false
+  xy: 338, 334
+  size: 324, 156
+  orig: 375, 202
+  offset: 25, 23
+  index: -1
+FX/FX_text_00007
+  rotate: false
+  xy: 328, 176
+  size: 324, 156
+  orig: 375, 202
+  offset: 25, 23
+  index: -1
+FX/FX_text_00008
+  rotate: false
+  xy: 328, 18
+  size: 324, 156
+  orig: 375, 202
+  offset: 25, 23
+  index: -1
+FX/FX_text_00009
+  rotate: false
+  xy: 664, 252
+  size: 324, 156
+  orig: 375, 202
+  offset: 25, 23
+  index: -1
+FX/FX_text_00010
+  rotate: false
+  xy: 654, 94
+  size: 324, 156
+  orig: 375, 202
+  offset: 25, 23
+  index: -1
+ban_co
+  rotate: false
+  xy: 654, 9
+  size: 186, 83
+  orig: 189, 89
+  offset: 1, 4
+  index: -1
+ban_tay_P_1
+  rotate: false
+  xy: 338, 510
+  size: 27, 21
+  orig: 30, 23
+  offset: 2, 1
+  index: -1
+ban_tay_T_1
+  rotate: false
+  xy: 664, 410
+  size: 29, 19
+  orig: 31, 21
+  offset: 1, 1
+  index: -1
+ban_tay_T_2
+  rotate: false
+  xy: 849, 611
+  size: 40, 22
+  orig: 42, 24
+  offset: 1, 1
+  index: -1
+body
+  rotate: false
+  xy: 882, 19
+  size: 62, 73
+  orig: 65, 75
+  offset: 1, 1
+  index: -1
+body_1
+  rotate: false
+  xy: 712, 410
+  size: 139, 194
+  orig: 139, 194
+  offset: 0, 0
+  index: -1
+brush
+  rotate: false
+  xy: 2, 616
+  size: 382, 190
+  orig: 427, 212
+  offset: 10, 8
+  index: -1
+co_1
+  rotate: false
+  xy: 882, 7
+  size: 13, 10
+  orig: 15, 12
+  offset: 1, 1
+  index: -1
+co_ao_2
+  rotate: false
+  xy: 842, 2
+  size: 38, 90
+  orig: 40, 92
+  offset: 1, 1
+  index: -1
+deco1
+  rotate: false
+  xy: 2, 402
+  size: 334, 212
+  orig: 334, 212
+  offset: 0, 0
+  index: -1
+face_1
+  rotate: false
+  xy: 664, 431
+  size: 41, 59
+  orig: 43, 61
+  offset: 1, 1
+  index: -1
+head
+  rotate: false
+  xy: 338, 533
+  size: 46, 81
+  orig: 48, 83
+  offset: 1, 1
+  index: -1
+la
+  rotate: false
+  xy: 961, 844
+  size: 22, 106
+  orig: 22, 106
+  offset: 0, 0
+  index: -1
+mat
+  rotate: false
+  xy: 2, 47
+  size: 191, 37
+  orig: 191, 37
+  offset: 0, 0
+  index: -1
+tay_P_1
+  rotate: false
+  xy: 849, 635
+  size: 121, 164
+  orig: 121, 164
+  offset: 0, 0
+  index: -1
+tay_P_2
+  rotate: false
+  xy: 883, 952
+  size: 101, 189
+  orig: 101, 189
+  offset: 0, 0
+  index: -1
+tay_T_1
+  rotate: false
+  xy: 883, 801
+  size: 76, 149
+  orig: 76, 149
+  offset: 0, 0
+  index: -1
+tay_T_2
+  rotate: false
+  xy: 712, 606
+  size: 135, 200
+  orig: 135, 200
+  offset: 0, 0
+  index: -1
+toc_1
+  rotate: false
+  xy: 195, 32
+  size: 82, 52
+  orig: 84, 84
+  offset: 2, 32
+  index: -1

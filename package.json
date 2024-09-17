@@ -1,0 +1,16 @@
+{
+  "name": "wild-game",
+  "uuid": "b05ccc96-a5b1-41ca-bdbb-ae45821ebe80",
+  "creator": {
+    "version": "3.8.3",
+    "registry": {
+      "remote": {}
+    },
+    "dependencies": {
+      "localization-editor": "1.0.1"
+    }
+  },
+  "scripts": {
+    "genGame": "node version_generator.js -u https://mdlbingo.deviic.online/WildGame/ -s build/build-bundle/android/WildGame -d build/ -v 1.0.2"
+  }
+}

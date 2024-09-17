@@ -1,0 +1,162 @@
+{
+    "skeleton": {
+        "hash": "iV6F4a+4aH1ZestF0XvoUMjipZw",
+        "spine": "3.8.99",
+        "x": -160.72,
+        "y": -44.8,
+        "width": 321,
+        "height": 344
+    },
+    "bones": [
+        { "name": "root" },
+        { "name": "FX_text", "parent": "root", "x": 1.8, "y": 175.42 }
+    ],
+    "slots": [
+        { "name": "nap bttn", "bone": "root", "attachment": "nap bttn" },
+        {
+            "name": "FX_text/FX_text_00000",
+            "bone": "FX_text",
+            "attachment": "FX_text/FX_text_00000"
+        }
+    ],
+    "skins": [
+        {
+            "name": "default",
+            "attachments": {
+                "FX_text/FX_text_00000": {
+                    "FX_text/FX_text_00000": {
+                        "x": -1.8,
+                        "y": -1.03,
+                        "width": 232,
+                        "height": 144
+                    },
+                    "FX_text/FX_text_00004": {
+                        "x": -1.8,
+                        "y": -1.03,
+                        "width": 232,
+                        "height": 144
+                    },
+                    "FX_text/FX_text_00005": {
+                        "x": -1.8,
+                        "y": -1.03,
+                        "width": 232,
+                        "height": 144
+                    },
+                    "FX_text/FX_text_00006": {
+                        "x": -1.8,
+                        "y": -1.03,
+                        "width": 232,
+                        "height": 144
+                    },
+                    "FX_text/FX_text_00007": {
+                        "x": -1.8,
+                        "y": -1.03,
+                        "width": 232,
+                        "height": 144
+                    },
+                    "FX_text/FX_text_00008": {
+                        "x": -1.8,
+                        "y": -1.03,
+                        "width": 232,
+                        "height": 144
+                    },
+                    "FX_text/FX_text_00009": {
+                        "x": -1.8,
+                        "y": -1.03,
+                        "width": 232,
+                        "height": 144
+                    },
+                    "FX_text/FX_text_00010": {
+                        "x": -1.8,
+                        "y": -1.03,
+                        "width": 232,
+                        "height": 144
+                    },
+                    "FX_text/FX_text_00011": {
+                        "x": -1.8,
+                        "y": -1.03,
+                        "width": 232,
+                        "height": 144
+                    },
+                    "FX_text/FX_text_00012": {
+                        "x": -1.8,
+                        "y": -1.03,
+                        "width": 232,
+                        "height": 144
+                    },
+                    "FX_text/FX_text_00013": {
+                        "x": -1.8,
+                        "y": -1.03,
+                        "width": 232,
+                        "height": 144
+                    },
+                    "FX_text/FX_text_00014": {
+                        "x": -1.8,
+                        "y": -1.03,
+                        "width": 232,
+                        "height": 144
+                    }
+                },
+                "nap bttn": {
+                    "nap bttn": {
+                        "x": -0.22,
+                        "y": 127.2,
+                        "width": 321,
+                        "height": 344
+                    }
+                }
+            }
+        }
+    ],
+    "animations": {
+        "hover": {
+            "slots": {
+                "FX_text/FX_text_00000": {
+                    "attachment": [
+                        { "time": 0.4333, "name": "FX_text/FX_text_00004" },
+                        { "time": 0.5, "name": "FX_text/FX_text_00005" },
+                        { "time": 0.5667, "name": "FX_text/FX_text_00006" },
+                        { "time": 0.6333, "name": "FX_text/FX_text_00007" },
+                        { "time": 0.7, "name": "FX_text/FX_text_00008" },
+                        { "time": 0.7667, "name": "FX_text/FX_text_00009" },
+                        { "time": 0.8333, "name": "FX_text/FX_text_00010" },
+                        { "time": 0.9, "name": "FX_text/FX_text_00011" },
+                        { "time": 0.9667, "name": "FX_text/FX_text_00012" },
+                        { "time": 1.0333, "name": "FX_text/FX_text_00013" },
+                        { "time": 1.1, "name": "FX_text/FX_text_00014" }
+                    ]
+                }
+            },
+            "bones": {
+                "FX_text": {
+                    "scale": [
+                        { "curve": 0.348, "c3": 0.636 },
+                        {
+                            "time": 0.2,
+                            "x": 0.841,
+                            "y": 0.841,
+                            "curve": 0.348,
+                            "c3": 0.636
+                        },
+                        {
+                            "time": 0.3667,
+                            "x": 1.044,
+                            "y": 1.044,
+                            "curve": 0.348,
+                            "c3": 0.636
+                        },
+                        {
+                            "time": 1.1,
+                            "x": 1.078,
+                            "y": 1.078,
+                            "curve": 0.348,
+                            "c3": 0.636
+                        },
+                        { "time": 1.5667 }
+                    ]
+                }
+            }
+        },
+        "idle": {}
+    }
+}

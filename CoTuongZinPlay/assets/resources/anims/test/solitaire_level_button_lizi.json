@@ -1,0 +1,719 @@
+{
+    "skeleton": {
+        "hash": "vh6EagvBmGiXTn0HVoiN/w7BsbM",
+        "spine": "3.8.88",
+        "x": -674.23,
+        "y": -492.03,
+        "width": 1349.36,
+        "height": 988.34,
+        "images": "./images/",
+        "audio": "D:/工作/solitaire/界面特效/签到"
+    },
+    "bones": [
+        { "name": "root" },
+        { "name": "anniuzong", "parent": "root" },
+        { "name": "anniuguang", "parent": "anniuzong" },
+        { "name": "lizi", "parent": "anniuzong", "scaleX": 2, "scaleY": 2 },
+        { "name": "anniuguang2", "parent": "anniuzong" },
+        {
+            "name": "2xinxing",
+            "parent": "root",
+            "x": -1.2,
+            "y": 2.4,
+            "scaleX": 2,
+            "scaleY": 2
+        },
+        {
+            "name": "1kuanglizi2",
+            "parent": "root",
+            "x": -40.23,
+            "y": -54.03,
+            "scaleX": -2,
+            "scaleY": -2
+        },
+        {
+            "name": "1kuanglizi3",
+            "parent": "root",
+            "x": 41.13,
+            "y": 58.3,
+            "scaleX": 2,
+            "scaleY": 2
+        }
+    ],
+    "slots": [
+        {
+            "name": "solitaire_qiandao_liziguang",
+            "bone": "anniuguang",
+            "blend": "additive"
+        },
+        {
+            "name": "solitaire_qiandao_liziguang2",
+            "bone": "anniuguang2",
+            "blend": "additive"
+        },
+        {
+            "name": "solitaire_qiandao_lizi_00001",
+            "bone": "lizi",
+            "blend": "additive"
+        },
+        {
+            "name": "111lizi_1",
+            "bone": "1kuanglizi2",
+            "attachment": "111lizi_00006",
+            "blend": "additive"
+        },
+        {
+            "name": "111lizi_2",
+            "bone": "1kuanglizi3",
+            "attachment": "111lizi_00006",
+            "blend": "additive"
+        },
+        { "name": "222xing_00001", "bone": "2xinxing", "blend": "additive" }
+    ],
+    "skins": [
+        {
+            "name": "default",
+            "attachments": {
+                "111lizi_1": {
+                    "111lizi_00006": { "width": 634, "height": 438 },
+                    "111lizi_00007": { "width": 634, "height": 438 },
+                    "111lizi_00008": { "width": 634, "height": 438 },
+                    "111lizi_00009": { "width": 634, "height": 438 },
+                    "111lizi_00010": { "width": 634, "height": 438 },
+                    "111lizi_00011": { "width": 634, "height": 438 },
+                    "111lizi_00012": { "width": 634, "height": 438 },
+                    "111lizi_00013": { "width": 634, "height": 438 },
+                    "111lizi_00014": { "width": 634, "height": 438 },
+                    "111lizi_00015": { "width": 634, "height": 438 },
+                    "111lizi_00016": { "width": 634, "height": 438 },
+                    "111lizi_00017": { "width": 634, "height": 438 },
+                    "111lizi_00018": { "width": 634, "height": 438 },
+                    "111lizi_00019": { "width": 634, "height": 438 },
+                    "111lizi_00020": { "width": 634, "height": 438 },
+                    "111lizi_00021": { "width": 634, "height": 438 },
+                    "111lizi_00022": { "width": 634, "height": 438 },
+                    "111lizi_00023": { "width": 634, "height": 438 },
+                    "111lizi_00024": { "width": 634, "height": 438 },
+                    "111lizi_00025": { "width": 634, "height": 438 },
+                    "111lizi_00026": { "width": 634, "height": 438 },
+                    "111lizi_00027": { "width": 634, "height": 438 },
+                    "111lizi_00028": { "width": 634, "height": 438 },
+                    "111lizi_00029": { "width": 634, "height": 438 },
+                    "111lizi_00030": { "width": 634, "height": 438 },
+                    "111lizi_00031": { "width": 634, "height": 438 },
+                    "111lizi_00032": { "width": 634, "height": 438 },
+                    "111lizi_00033": { "width": 634, "height": 438 }
+                },
+                "111lizi_2": {
+                    "111lizi_00006": { "width": 634, "height": 438 },
+                    "111lizi_00007": { "width": 634, "height": 438 },
+                    "111lizi_00008": { "width": 634, "height": 438 },
+                    "111lizi_00009": { "width": 634, "height": 438 },
+                    "111lizi_00010": { "width": 634, "height": 438 },
+                    "111lizi_00011": { "width": 634, "height": 438 },
+                    "111lizi_00012": { "width": 634, "height": 438 },
+                    "111lizi_00013": { "width": 634, "height": 438 },
+                    "111lizi_00014": { "width": 634, "height": 438 },
+                    "111lizi_00015": { "width": 634, "height": 438 },
+                    "111lizi_00016": { "width": 634, "height": 438 },
+                    "111lizi_00017": { "width": 634, "height": 438 },
+                    "111lizi_00018": { "width": 634, "height": 438 },
+                    "111lizi_00019": { "width": 634, "height": 438 },
+                    "111lizi_00020": { "width": 634, "height": 438 },
+                    "111lizi_00021": { "width": 634, "height": 438 },
+                    "111lizi_00022": { "width": 634, "height": 438 },
+                    "111lizi_00023": { "width": 634, "height": 438 },
+                    "111lizi_00024": { "width": 634, "height": 438 },
+                    "111lizi_00025": { "width": 634, "height": 438 },
+                    "111lizi_00026": { "width": 634, "height": 438 },
+                    "111lizi_00027": { "width": 634, "height": 438 },
+                    "111lizi_00028": { "width": 634, "height": 438 },
+                    "111lizi_00029": { "width": 634, "height": 438 },
+                    "111lizi_00030": { "width": 634, "height": 438 },
+                    "111lizi_00031": { "width": 634, "height": 438 },
+                    "111lizi_00032": { "width": 634, "height": 438 },
+                    "111lizi_00033": { "width": 634, "height": 438 }
+                },
+                "222xing_00001": {
+                    "222xing_00001": { "width": 720, "height": 554 },
+                    "222xing_00002": { "width": 720, "height": 554 },
+                    "222xing_00003": { "width": 720, "height": 554 },
+                    "222xing_00004": { "width": 720, "height": 554 },
+                    "222xing_00005": { "width": 720, "height": 554 },
+                    "222xing_00006": { "width": 720, "height": 554 },
+                    "222xing_00007": { "width": 720, "height": 554 },
+                    "222xing_00008": { "width": 720, "height": 554 },
+                    "222xing_00009": { "width": 720, "height": 554 },
+                    "222xing_00010": { "width": 720, "height": 554 },
+                    "222xing_00011": { "width": 720, "height": 554 },
+                    "222xing_00012": { "width": 720, "height": 554 },
+                    "222xing_00013": { "width": 720, "height": 554 },
+                    "222xing_00014": { "width": 720, "height": 554 },
+                    "222xing_00015": { "width": 720, "height": 554 },
+                    "222xing_00016": { "width": 720, "height": 554 },
+                    "222xing_00017": { "width": 720, "height": 554 },
+                    "222xing_00018": { "width": 720, "height": 554 },
+                    "222xing_00019": { "width": 720, "height": 554 },
+                    "222xing_00020": { "width": 720, "height": 554 },
+                    "222xing_00021": { "width": 720, "height": 554 },
+                    "222xing_00022": { "width": 720, "height": 554 },
+                    "222xing_00023": { "width": 720, "height": 554 },
+                    "222xing_00024": { "width": 720, "height": 554 }
+                },
+                "solitaire_qiandao_lizi_00001": {
+                    "solitaire_qiandao_lizi_00016": {
+                        "width": 260,
+                        "height": 264
+                    },
+                    "solitaire_qiandao_lizi_00017": {
+                        "width": 260,
+                        "height": 264
+                    },
+                    "solitaire_qiandao_lizi_00018": {
+                        "width": 260,
+                        "height": 264
+                    },
+                    "solitaire_qiandao_lizi_00019": {
+                        "width": 260,
+                        "height": 264
+                    },
+                    "solitaire_qiandao_lizi_00020": {
+                        "width": 260,
+                        "height": 264
+                    },
+                    "solitaire_qiandao_lizi_00021": {
+                        "width": 260,
+                        "height": 264
+                    },
+                    "solitaire_qiandao_lizi_00022": {
+                        "width": 260,
+                        "height": 264
+                    },
+                    "solitaire_qiandao_lizi_00023": {
+                        "width": 260,
+                        "height": 264
+                    },
+                    "solitaire_qiandao_lizi_00024": {
+                        "width": 260,
+                        "height": 264
+                    },
+                    "solitaire_qiandao_lizi_00025": {
+                        "width": 260,
+                        "height": 264
+                    },
+                    "solitaire_qiandao_lizi_00026": {
+                        "width": 260,
+                        "height": 264
+                    },
+                    "solitaire_qiandao_lizi_00027": {
+                        "width": 260,
+                        "height": 264
+                    },
+                    "solitaire_qiandao_lizi_00028": {
+                        "width": 260,
+                        "height": 264
+                    },
+                    "solitaire_qiandao_lizi_00029": {
+                        "width": 260,
+                        "height": 264
+                    },
+                    "solitaire_qiandao_lizi_00030": {
+                        "width": 260,
+                        "height": 264
+                    },
+                    "solitaire_qiandao_lizi_00031": {
+                        "width": 260,
+                        "height": 264
+                    },
+                    "solitaire_qiandao_lizi_00032": {
+                        "width": 260,
+                        "height": 264
+                    },
+                    "solitaire_qiandao_lizi_00033": {
+                        "width": 260,
+                        "height": 264
+                    },
+                    "solitaire_qiandao_lizi_00034": {
+                        "width": 260,
+                        "height": 264
+                    },
+                    "solitaire_qiandao_lizi_00035": {
+                        "width": 260,
+                        "height": 264
+                    }
+                },
+                "solitaire_qiandao_liziguang": {
+                    "solitaire_qiandao_liziguang": {
+                        "width": 204,
+                        "height": 204
+                    }
+                },
+                "solitaire_qiandao_liziguang2": {
+                    "solitaire_qiandao_liziguang": {
+                        "width": 204,
+                        "height": 204
+                    }
+                }
+            }
+        }
+    ],
+    "animations": {
+        "anniu3lizi": {
+            "slots": {
+                "111lizi_1": {
+                    "color": [
+                        { "color": "ffffffff", "curve": "stepped" },
+                        {
+                            "time": 0.5667,
+                            "color": "ffffffff",
+                            "curve": "stepped"
+                        },
+                        {
+                            "time": 1.1333,
+                            "color": "ffffffff",
+                            "curve": 0.25,
+                            "c3": 0.75
+                        },
+                        { "time": 1.4667, "color": "ffffff00" }
+                    ],
+                    "attachment": [
+                        { "name": null },
+                        { "time": 0.5667, "name": "111lizi_00006" },
+                        { "time": 0.6, "name": "111lizi_00007" },
+                        { "time": 0.6333, "name": "111lizi_00008" },
+                        { "time": 0.6667, "name": "111lizi_00009" },
+                        { "time": 0.7, "name": "111lizi_00010" },
+                        { "time": 0.7333, "name": "111lizi_00011" },
+                        { "time": 0.7667, "name": "111lizi_00012" },
+                        { "time": 0.8, "name": "111lizi_00013" },
+                        { "time": 0.8333, "name": "111lizi_00014" },
+                        { "time": 0.8667, "name": "111lizi_00015" },
+                        { "time": 0.9, "name": "111lizi_00016" },
+                        { "time": 0.9333, "name": "111lizi_00017" },
+                        { "time": 0.9667, "name": "111lizi_00018" },
+                        { "time": 1, "name": "111lizi_00019" },
+                        { "time": 1.0333, "name": "111lizi_00020" },
+                        { "time": 1.0667, "name": "111lizi_00021" },
+                        { "time": 1.1, "name": "111lizi_00022" },
+                        { "time": 1.1333, "name": "111lizi_00023" },
+                        { "time": 1.1667, "name": "111lizi_00024" },
+                        { "time": 1.2, "name": "111lizi_00025" },
+                        { "time": 1.2333, "name": "111lizi_00026" },
+                        { "time": 1.2667, "name": "111lizi_00027" },
+                        { "time": 1.3, "name": "111lizi_00028" },
+                        { "time": 1.3333, "name": "111lizi_00029" },
+                        { "time": 1.3667, "name": "111lizi_00030" },
+                        { "time": 1.4, "name": "111lizi_00031" },
+                        { "time": 1.4333, "name": "111lizi_00032" },
+                        { "time": 1.4667, "name": "111lizi_00033" }
+                    ]
+                },
+                "111lizi_2": {
+                    "color": [
+                        { "color": "ffffffff", "curve": "stepped" },
+                        {
+                            "time": 0.5667,
+                            "color": "ffffffff",
+                            "curve": "stepped"
+                        },
+                        {
+                            "time": 1.1333,
+                            "color": "ffffffff",
+                            "curve": 0.25,
+                            "c3": 0.75
+                        },
+                        { "time": 1.4667, "color": "ffffff00" }
+                    ],
+                    "attachment": [
+                        { "name": null },
+                        { "time": 0.5667, "name": "111lizi_00006" },
+                        { "time": 0.6, "name": "111lizi_00007" },
+                        { "time": 0.6333, "name": "111lizi_00008" },
+                        { "time": 0.6667, "name": "111lizi_00009" },
+                        { "time": 0.7, "name": "111lizi_00010" },
+                        { "time": 0.7333, "name": "111lizi_00011" },
+                        { "time": 0.7667, "name": "111lizi_00012" },
+                        { "time": 0.8, "name": "111lizi_00013" },
+                        { "time": 0.8333, "name": "111lizi_00014" },
+                        { "time": 0.8667, "name": "111lizi_00015" },
+                        { "time": 0.9, "name": "111lizi_00016" },
+                        { "time": 0.9333, "name": "111lizi_00017" },
+                        { "time": 0.9667, "name": "111lizi_00018" },
+                        { "time": 1, "name": "111lizi_00019" },
+                        { "time": 1.0333, "name": "111lizi_00020" },
+                        { "time": 1.0667, "name": "111lizi_00021" },
+                        { "time": 1.1, "name": "111lizi_00022" },
+                        { "time": 1.1333, "name": "111lizi_00023" },
+                        { "time": 1.1667, "name": "111lizi_00024" },
+                        { "time": 1.2, "name": "111lizi_00025" },
+                        { "time": 1.2333, "name": "111lizi_00026" },
+                        { "time": 1.2667, "name": "111lizi_00027" },
+                        { "time": 1.3, "name": "111lizi_00028" },
+                        { "time": 1.3333, "name": "111lizi_00029" },
+                        { "time": 1.3667, "name": "111lizi_00030" },
+                        { "time": 1.4, "name": "111lizi_00031" },
+                        { "time": 1.4333, "name": "111lizi_00032" },
+                        { "time": 1.4667, "name": "111lizi_00033" }
+                    ]
+                },
+                "222xing_00001": {
+                    "color": [
+                        { "color": "ffffffff", "curve": "stepped" },
+                        { "time": 0.5, "color": "ffffffff" }
+                    ],
+                    "attachment": [
+                        { "name": null },
+                        { "time": 0.5, "name": "222xing_00001" },
+                        { "time": 0.5333, "name": "222xing_00002" },
+                        { "time": 0.5667, "name": "222xing_00003" },
+                        { "time": 0.6, "name": "222xing_00004" },
+                        { "time": 0.6333, "name": "222xing_00005" },
+                        { "time": 0.6667, "name": "222xing_00006" },
+                        { "time": 0.7, "name": "222xing_00007" },
+                        { "time": 0.7333, "name": "222xing_00008" },
+                        { "time": 0.7667, "name": "222xing_00009" },
+                        { "time": 0.8, "name": "222xing_00010" },
+                        { "time": 0.8333, "name": "222xing_00011" },
+                        { "time": 0.8667, "name": "222xing_00012" },
+                        { "time": 0.9, "name": "222xing_00013" },
+                        { "time": 0.9333, "name": "222xing_00014" },
+                        { "time": 0.9667, "name": "222xing_00015" },
+                        { "time": 1, "name": "222xing_00016" },
+                        { "time": 1.0333, "name": "222xing_00017" },
+                        { "time": 1.0667, "name": "222xing_00018" },
+                        { "time": 1.1, "name": "222xing_00019" },
+                        { "time": 1.1333, "name": "222xing_00020" },
+                        { "time": 1.1667, "name": "222xing_00021" },
+                        { "time": 1.2, "name": "222xing_00022" },
+                        { "time": 1.2333, "name": "222xing_00023" },
+                        { "time": 1.2667, "name": "222xing_00024" },
+                        { "time": 1.3, "name": null }
+                    ]
+                },
+                "solitaire_qiandao_lizi_00001": {
+                    "color": [{ "color": "ffffffff" }],
+                    "attachment": [{ "name": null }]
+                },
+                "solitaire_qiandao_liziguang": {
+                    "color": [{ "color": "ffffffff" }],
+                    "attachment": [{ "name": null }]
+                },
+                "solitaire_qiandao_liziguang2": {
+                    "color": [{ "color": "ffffffff" }],
+                    "attachment": [{ "name": null }]
+                }
+            },
+            "bones": {
+                "anniuzong": {
+                    "rotate": [{}],
+                    "translate": [{}],
+                    "scale": [{}]
+                },
+                "anniuguang": {
+                    "rotate": [{}],
+                    "translate": [{}],
+                    "scale": [{}]
+                },
+                "lizi": {
+                    "rotate": [{}],
+                    "translate": [{}],
+                    "scale": [{}]
+                },
+                "anniuguang2": {
+                    "rotate": [{}],
+                    "translate": [{}],
+                    "scale": [{}]
+                },
+                "2xinxing": {
+                    "rotate": [{ "curve": "stepped" }, { "time": 0.5 }],
+                    "translate": [
+                        { "curve": 0.25, "c3": 0.75 },
+                        { "time": 0.5, "x": 45.55, "y": -4.43 }
+                    ],
+                    "scale": [
+                        { "curve": 0.25, "c3": 0.75 },
+                        { "time": 0.5, "x": 1.2, "y": 1.2 }
+                    ]
+                },
+                "1kuanglizi2": {
+                    "rotate": [{ "curve": "stepped" }, { "time": 0.5667 }],
+                    "translate": [
+                        { "curve": "stepped" },
+                        { "time": 0.5667, "curve": 0.25, "c3": 0.75 },
+                        { "time": 1.4667, "y": -19.43 }
+                    ],
+                    "scale": [
+                        { "curve": 0.25, "c3": 0.75 },
+                        {
+                            "time": 0.5667,
+                            "x": 0.9,
+                            "y": 0.9,
+                            "curve": 0.25,
+                            "c3": 0.75
+                        },
+                        { "time": 1.4667, "x": 1.15, "y": 1.15 }
+                    ]
+                },
+                "1kuanglizi3": {
+                    "rotate": [{ "curve": "stepped" }, { "time": 0.5667 }],
+                    "translate": [
+                        { "curve": "stepped" },
+                        { "time": 0.5667, "curve": 0.25, "c3": 0.75 },
+                        { "time": 1.4667, "y": 9.24 }
+                    ],
+                    "scale": [
+                        { "curve": 0.25, "c3": 0.75 },
+                        {
+                            "time": 0.5667,
+                            "x": 0.9,
+                            "y": 0.9,
+                            "curve": 0.25,
+                            "c3": 0.75
+                        },
+                        { "time": 1.4667, "x": 1.15, "y": 1.15 }
+                    ]
+                }
+            }
+        },
+        "anniulizi": {
+            "slots": {
+                "111lizi_1": {
+                    "attachment": [{ "name": null }]
+                },
+                "111lizi_2": {
+                    "attachment": [{ "name": null }]
+                },
+                "solitaire_qiandao_lizi_00001": {
+                    "color": [
+                        { "color": "ffffffff", "curve": "stepped" },
+                        {
+                            "time": 0.0333,
+                            "color": "ffffffff",
+                            "curve": "stepped"
+                        },
+                        {
+                            "time": 0.5333,
+                            "color": "ffffffff",
+                            "curve": 0.25,
+                            "c3": 0.75
+                        },
+                        { "time": 0.6667, "color": "ffffff00" }
+                    ],
+                    "attachment": [
+                        { "name": null },
+                        {
+                            "time": 0.0333,
+                            "name": "solitaire_qiandao_lizi_00016"
+                        },
+                        {
+                            "time": 0.0667,
+                            "name": "solitaire_qiandao_lizi_00017"
+                        },
+                        { "time": 0.1, "name": "solitaire_qiandao_lizi_00018" },
+                        {
+                            "time": 0.1333,
+                            "name": "solitaire_qiandao_lizi_00019"
+                        },
+                        {
+                            "time": 0.1667,
+                            "name": "solitaire_qiandao_lizi_00020"
+                        },
+                        { "time": 0.2, "name": "solitaire_qiandao_lizi_00021" },
+                        {
+                            "time": 0.2333,
+                            "name": "solitaire_qiandao_lizi_00022"
+                        },
+                        {
+                            "time": 0.2667,
+                            "name": "solitaire_qiandao_lizi_00023"
+                        },
+                        { "time": 0.3, "name": "solitaire_qiandao_lizi_00024" },
+                        {
+                            "time": 0.3333,
+                            "name": "solitaire_qiandao_lizi_00025"
+                        },
+                        {
+                            "time": 0.3667,
+                            "name": "solitaire_qiandao_lizi_00026"
+                        },
+                        { "time": 0.4, "name": "solitaire_qiandao_lizi_00027" },
+                        {
+                            "time": 0.4333,
+                            "name": "solitaire_qiandao_lizi_00028"
+                        },
+                        {
+                            "time": 0.4667,
+                            "name": "solitaire_qiandao_lizi_00029"
+                        },
+                        { "time": 0.5, "name": "solitaire_qiandao_lizi_00030" },
+                        {
+                            "time": 0.5333,
+                            "name": "solitaire_qiandao_lizi_00031"
+                        },
+                        {
+                            "time": 0.5667,
+                            "name": "solitaire_qiandao_lizi_00032"
+                        },
+                        { "time": 0.6, "name": "solitaire_qiandao_lizi_00033" },
+                        {
+                            "time": 0.6333,
+                            "name": "solitaire_qiandao_lizi_00034"
+                        },
+                        {
+                            "time": 0.6667,
+                            "name": "solitaire_qiandao_lizi_00035"
+                        }
+                    ]
+                },
+                "solitaire_qiandao_liziguang": {
+                    "color": [
+                        { "color": "ffffffff", "curve": "stepped" },
+                        {
+                            "time": 0.0333,
+                            "color": "ffffffff",
+                            "curve": "stepped"
+                        },
+                        {
+                            "time": 0.2667,
+                            "color": "ffffffff",
+                            "curve": 0.25,
+                            "c3": 0.75
+                        },
+                        { "time": 0.5, "color": "ffffff00" }
+                    ],
+                    "attachment": [
+                        { "name": null },
+                        {
+                            "time": 0.0333,
+                            "name": "solitaire_qiandao_liziguang"
+                        },
+                        {
+                            "time": 0.2667,
+                            "name": "solitaire_qiandao_liziguang"
+                        },
+                        { "time": 0.5, "name": "solitaire_qiandao_liziguang" }
+                    ]
+                },
+                "solitaire_qiandao_liziguang2": {
+                    "color": [
+                        { "color": "ffffffff", "curve": 0.25, "c3": 0.75 },
+                        {
+                            "time": 0.0333,
+                            "color": "ffffff2f",
+                            "curve": "stepped"
+                        },
+                        {
+                            "time": 0.2667,
+                            "color": "ffffff2f",
+                            "curve": 0.25,
+                            "c3": 0.75
+                        },
+                        { "time": 0.5, "color": "ffffff00" }
+                    ],
+                    "attachment": [
+                        { "name": null },
+                        {
+                            "time": 0.0333,
+                            "name": "solitaire_qiandao_liziguang"
+                        },
+                        {
+                            "time": 0.2667,
+                            "name": "solitaire_qiandao_liziguang"
+                        },
+                        { "time": 0.5, "name": "solitaire_qiandao_liziguang" }
+                    ]
+                }
+            },
+            "bones": {
+                "anniuzong": {
+                    "rotate": [{}],
+                    "translate": [{}],
+                    "scale": [{}]
+                },
+                "anniuguang": {
+                    "rotate": [
+                        { "curve": "stepped" },
+                        { "time": 0.0333, "curve": "stepped" },
+                        { "time": 0.2667, "curve": "stepped" },
+                        { "time": 0.5 }
+                    ],
+                    "translate": [
+                        { "curve": "stepped" },
+                        { "time": 0.0333, "curve": "stepped" },
+                        { "time": 0.2667, "curve": "stepped" },
+                        { "time": 0.5 }
+                    ],
+                    "scale": [
+                        { "curve": 0.25, "c3": 0.75 },
+                        {
+                            "time": 0.0333,
+                            "x": 0.5,
+                            "y": 0.5,
+                            "curve": 0.25,
+                            "c3": 0.75
+                        },
+                        {
+                            "time": 0.2667,
+                            "x": 1.727,
+                            "y": 0.816,
+                            "curve": 0.25,
+                            "c3": 0.75
+                        },
+                        { "time": 0.5, "x": 1.8, "y": 1.8 }
+                    ]
+                },
+                "lizi": {
+                    "rotate": [{ "curve": "stepped" }, { "time": 0.0333 }],
+                    "translate": [
+                        { "curve": 0.25, "c3": 0.75 },
+                        { "time": 0.0333, "x": -15.37, "y": -13.83 }
+                    ],
+                    "scale": [
+                        { "curve": 0.25, "c3": 0.75 },
+                        {
+                            "time": 0.0333,
+                            "x": 0.8,
+                            "y": 0.8,
+                            "curve": 0.25,
+                            "c3": 0.75
+                        },
+                        { "time": 0.3667, "curve": 0.25, "c3": 0.75 },
+                        { "time": 0.6667, "x": 0.8, "y": 0.8 }
+                    ]
+                },
+                "anniuguang2": {
+                    "rotate": [
+                        { "curve": "stepped" },
+                        { "time": 0.0333, "curve": "stepped" },
+                        { "time": 0.2667, "curve": "stepped" },
+                        { "time": 0.5 }
+                    ],
+                    "translate": [
+                        { "curve": "stepped" },
+                        { "time": 0.0333, "curve": "stepped" },
+                        { "time": 0.2667, "curve": "stepped" },
+                        { "time": 0.5 }
+                    ],
+                    "scale": [
+                        { "curve": 0.25, "c3": 0.75 },
+                        {
+                            "time": 0.0333,
+                            "x": 0.5,
+                            "y": 0.5,
+                            "curve": 0.25,
+                            "c3": 0.75
+                        },
+                        {
+                            "time": 0.2667,
+                            "x": 1.727,
+                            "y": 0.816,
+                            "curve": 0.25,
+                            "c3": 0.75
+                        },
+                        { "time": 0.5, "x": 1.8, "y": 1.8 }
+                    ]
+                }
+            }
+        }
+    }
+}

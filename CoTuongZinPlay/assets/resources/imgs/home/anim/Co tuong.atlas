@@ -1,0 +1,188 @@
+
+Co tuong.png
+size: 995,1041
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BG
+  rotate: false
+  xy: 2, 686
+  size: 440, 353
+  orig: 451, 364
+  offset: 5, 6
+  index: -1
+FX/FX_00001
+  rotate: false
+  xy: 874, 449
+  size: 61, 74
+  orig: 242, 239
+  offset: 90, 84
+  index: -1
+FX/FX_00003
+  rotate: false
+  xy: 880, 638
+  size: 103, 124
+  orig: 242, 239
+  offset: 71, 70
+  index: -1
+FX/FX_00005
+  rotate: false
+  xy: 811, 181
+  size: 135, 133
+  orig: 242, 239
+  offset: 57, 63
+  index: -1
+FX/FX_00007
+  rotate: false
+  xy: 808, 25
+  size: 146, 137
+  orig: 242, 239
+  offset: 57, 59
+  index: -1
+FX/FX_00010
+  rotate: false
+  xy: 656, 22
+  size: 150, 140
+  orig: 242, 239
+  offset: 52, 55
+  index: -1
+FX/FX_00013
+  rotate: false
+  xy: 880, 894
+  size: 113, 145
+  orig: 242, 239
+  offset: 78, 53
+  index: -1
+FX/FX_00016
+  rotate: false
+  xy: 880, 764
+  size: 104, 128
+  orig: 242, 239
+  offset: 88, 70
+  index: -1
+FX_text/FX_text_00003
+  rotate: false
+  xy: 444, 839
+  size: 216, 200
+  orig: 218, 202
+  offset: 1, 1
+  index: -1
+FX_text/FX_text_00004
+  rotate: false
+  xy: 662, 839
+  size: 216, 200
+  orig: 218, 202
+  offset: 1, 1
+  index: -1
+FX_text/FX_text_00005
+  rotate: false
+  xy: 444, 637
+  size: 216, 200
+  orig: 218, 202
+  offset: 1, 1
+  index: -1
+FX_text/FX_text_00006
+  rotate: false
+  xy: 662, 637
+  size: 216, 200
+  orig: 218, 202
+  offset: 1, 1
+  index: -1
+FX_text/FX_text_00007
+  rotate: false
+  xy: 2, 484
+  size: 216, 200
+  orig: 218, 202
+  offset: 1, 1
+  index: -1
+FX_text/FX_text_00008
+  rotate: false
+  xy: 220, 484
+  size: 216, 200
+  orig: 218, 202
+  offset: 1, 1
+  index: -1
+FX_text/FX_text_00009
+  rotate: false
+  xy: 438, 435
+  size: 216, 200
+  orig: 218, 202
+  offset: 1, 1
+  index: -1
+FX_text/FX_text_00010
+  rotate: false
+  xy: 656, 435
+  size: 216, 200
+  orig: 218, 202
+  offset: 1, 1
+  index: -1
+FX_text/FX_text_00011
+  rotate: false
+  xy: 2, 282
+  size: 216, 200
+  orig: 218, 202
+  offset: 1, 1
+  index: -1
+FX_text/FX_text_00012
+  rotate: false
+  xy: 220, 282
+  size: 216, 200
+  orig: 218, 202
+  offset: 1, 1
+  index: -1
+FX_text/FX_text_00013
+  rotate: false
+  xy: 438, 233
+  size: 216, 200
+  orig: 218, 202
+  offset: 1, 1
+  index: -1
+FX_text/FX_text_00014
+  rotate: false
+  xy: 2, 80
+  size: 216, 200
+  orig: 218, 202
+  offset: 1, 1
+  index: -1
+FX_text/FX_text_00015
+  rotate: false
+  xy: 220, 80
+  size: 216, 200
+  orig: 218, 202
+  offset: 1, 1
+  index: -1
+FX_text/FX_text_00016
+  rotate: false
+  xy: 438, 31
+  size: 216, 200
+  orig: 218, 202
+  offset: 1, 1
+  index: -1
+co tuong 1
+  rotate: false
+  xy: 656, 164
+  size: 153, 150
+  orig: 157, 154
+  offset: 2, 2
+  index: -1
+co tuong 1 shadow
+  rotate: false
+  xy: 2, 2
+  size: 138, 76
+  orig: 161, 97
+  offset: 21, 7
+  index: -1
+co tuong 2
+  rotate: false
+  xy: 880, 525
+  size: 113, 111
+  orig: 115, 113
+  offset: 1, 1
+  index: -1
+hoa
+  rotate: false
+  xy: 656, 316
+  size: 306, 117
+  orig: 310, 126
+  offset: 2, 7
+  index: -1

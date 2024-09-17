@@ -1,0 +1,90 @@
+
+solitaire_feibi.png
+size: 238,568
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/jinbidonghua1
+  rotate: false
+  xy: 2, 450
+  size: 116, 116
+  orig: 118, 118
+  offset: 1, 1
+  index: -1
+images/jinbidonghua10
+  rotate: true
+  xy: 2, 128
+  size: 100, 116
+  orig: 118, 118
+  offset: 11, 1
+  index: -1
+images/jinbidonghua11
+  rotate: true
+  xy: 120, 224
+  size: 111, 116
+  orig: 118, 118
+  offset: 5, 1
+  index: -1
+images/jinbidonghua12
+  rotate: false
+  xy: 2, 332
+  size: 116, 116
+  orig: 118, 118
+  offset: 1, 1
+  index: -1
+images/jinbidonghua2
+  rotate: false
+  xy: 120, 450
+  size: 116, 116
+  orig: 118, 118
+  offset: 1, 1
+  index: -1
+images/jinbidonghua3
+  rotate: true
+  xy: 120, 337
+  size: 111, 116
+  orig: 118, 118
+  offset: 2, 1
+  index: -1
+images/jinbidonghua4
+  rotate: true
+  xy: 2, 230
+  size: 100, 116
+  orig: 118, 118
+  offset: 7, 1
+  index: -1
+images/jinbidonghua5
+  rotate: true
+  xy: 120, 139
+  size: 83, 114
+  orig: 118, 118
+  offset: 15, 2
+  index: -1
+images/jinbidonghua6
+  rotate: true
+  xy: 2, 65
+  size: 61, 114
+  orig: 118, 118
+  offset: 26, 2
+  index: -1
+images/jinbidonghua7
+  rotate: true
+  xy: 118, 16
+  size: 36, 114
+  orig: 118, 118
+  offset: 41, 2
+  index: -1
+images/jinbidonghua8
+  rotate: true
+  xy: 2, 2
+  size: 61, 114
+  orig: 118, 118
+  offset: 31, 2
+  index: -1
+images/jinbidonghua9
+  rotate: true
+  xy: 120, 54
+  size: 83, 114
+  orig: 118, 118
+  offset: 20, 2
+  index: -1

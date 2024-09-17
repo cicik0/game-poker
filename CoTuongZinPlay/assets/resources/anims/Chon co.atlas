@@ -1,0 +1,20 @@
+
+Chon co.png
+size: 504,992
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+black
+  rotate: false
+  xy: 2, 490
+  size: 500, 500
+  orig: 502, 502
+  offset: 1, 1
+  index: -1
+red
+  rotate: false
+  xy: 2, 2
+  size: 500, 486
+  orig: 502, 488
+  offset: 1, 1
+  index: -1
